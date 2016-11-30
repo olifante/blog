@@ -97,23 +97,24 @@ urlpatterns = patterns('',
 
 <p>The template could be something as simple as this or as complex as your wildest Dreamweaver fantasies:</p>
 
-<pre><code>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-    &lt;head&gt;
-        &lt;title&gt;
-            Hi, {{ name }}!
-        &lt;/title&gt;
-    &lt;/head&gt;
-    &lt;body&gt;
-        &lt;h1&gt;
-            Hi, {{ name }}!
-        &lt;/h1&gt;
-        &lt;p&gt;
-            My time is &lt;strong&gt;{% now "H:i:s" %}&lt;/strong&gt;
-        &lt;/p&gt;
-    &lt;/body&gt;
-&lt;/html&gt;
-</code></pre>
+```
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Hi, {% raw  %}{{ name }}!{% endraw %}
+        </title>
+    </head>
+    <body>
+        <h1>
+            Hi, {% raw  %}{{ name }}!{% endraw %}
+        </h1>
+        <p>
+            My time is <strong>{% raw  %}{% now "H:i:s" %}{% endraw %}</strong>
+        </p>
+    </body>
+</html>
+```
 
 <p>This now looks less like a toy and more like something you could actually use to build something useful. We could add decorators à la Bottle or Flask to decorate views with their URLs instead of writing them separately at the bottom, and we could define a nicer syntax to point URLs to templates, but the basics are there and can do much of what Flask does. The difference is, the whole remaining paraphernalia of Django is hidden behind the curtains, ready for you to use it if or when you decide that you need to use an ORM to talk to a database, use Form helpers, build an administrative back-end, internationalize your webapp, etc.</p>
 
