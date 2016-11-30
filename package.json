@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "gh-markdown-cli": "^0.2.0",
+    "yaml-front-matter": "^3.4.0"
+  }
+}
