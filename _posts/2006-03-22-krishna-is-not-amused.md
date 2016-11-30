@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Krishna is NOT Amused"
+published: true
+category:
+  - Web/Tech
+---
+<p>First <a href="http://www.everything2.com/index.pl?node_id=408086">this</a>, now <a href="http://joyoftech.com/joyoftech/joyimages/802.gif">this</a>.</p>
+

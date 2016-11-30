@@ -1,0 +1,9 @@
+---
+layout: post
+title: "R.I.P. Covil do Olifante"
+published: true
+category:
+  - Weblogs
+---
+<p>&quot;O Covil do Olifante&quot; is dead - long live &quot;Olifante's Lair&quot;, this blog's new title. It didn't make sense to hang on to a Portuguese title for a blog that has mostly shifted to English.</p>
+

@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Daqui não saio, daqui ninguém me tira"
+published: true
+category:
+  - Web/Tech
+---
+<p>Já faço parte da exclusiva ciber-elite - eu e mais 500.000 macacos. Depois de o <a href="http://www.delaranja.com/blog/archives/000026.html">André</a> me ter torturado com a sua indiferença, eis que o magnânimo <a href="http://pecus.homeip.net/weblog/">Pecus</a> se apiedou de mim e me enviou o tão cobiçado convite para aderir ao <a href="http://www.orkut.com/join.html">Orkut</a>, o novo serviço de redes sociais do Google. Adeus, ciber-exclusão! Olá, ciber-conectividade!</p>
+<p>Bom, agora que já cá estou, alguém me explica para que é que isto serve?</p>
+<p>(Para a minha felicidade ser completa, só precisava agora de um convite para aderir ao <a href="https://gmail.google.com/">Gmail</a>. Tende piedade deste pobre desgraçado!)</p>
+
+

@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Todo o mundo é feito de mudança"
+published: true
+category:
+  - Weblogs
+---
+e este blog não é excepção. Acrescentei algumas coisas à coluna da direita, incluindo um campo que permite efectuar buscas no <a href="http://olifante.blogs.com/covil">Covil do Olifante</a> usando o Google, um contador de visitas e alguns botões do <a href="www.bloglines.com">Bloglines</a>, o meu <a href="http://www.ladlass.com/archives/000669.html">newsreader</a> favorito.
+

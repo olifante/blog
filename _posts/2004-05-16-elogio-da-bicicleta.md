@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Elogio da Bicicleta"
+published: true
+category:
+  - Travel
+---
+<a title="In Praise of the Bicycle" href="http://danenet.wicip.org/bcp/in_praise_of.html">In Praise of the Bicycle</a>
+<blockquote><cite>
+<p>
+Man, unaided by any tool, gets around quite efficiently. He carries one gram of his weight over a kilometer in ten minutes by expending 0.75 calories. Man on his feet is thermodynamically more efficient than any motorized vehicle and most animals. [...]</p>
+<p>
+Man on a bicycle can go three or four times faster than the pedestrian, but uses five times less energy in the process. He carries one gram of his weight over a kilometer of flat road at an expense of only 0.15 calories. [...] Equipped with this tool, man outstrips the efficiency of not only all machines but all other animals as well.</p>
+</cite></blockquote>
+

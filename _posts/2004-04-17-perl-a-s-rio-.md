@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Perl? A sério?"
+published: true
+category:
+  - Web/Tech
+---
+<a href="http://www.netalive.org/tinkering/serious-perl/">Perl a sério</a>: o facto de alguém sentir necessidade de escrever um artigo destes ilustra bem as deficiências graves desta linguagem de programação.
+

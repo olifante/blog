@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Não à mentira"
+published: true
+category:
+  - Current Affairs
+---
+<p>A vitória do PSOE em Espanha é um facto político notável, que poderá assinalar o início da derrocada da doutrina Bush. Provou-se que em democracia os eleitores perdoam muita coisa, mas não perdoam que lhes mintam descaradamente nem que lhes seja negado o direito à informação em cima das eleições.</p>
+
+<p>Nunca saberemos se o PSOE teria ganho estas eleições, caso o lamentável e ignóbil atentado de 11 de Março não se tivesse produzido. Alguns comentadores dizem que mesmo antes do atentado as sondagens sub-avaliavam as hipóteses eleitorais do PSOE, mas é provável que o PP de Aznar tivesse conseguido obter pelo menos a maioria, o que significa que o atentado pode ter sido decisivo na eleição de Zapatero.</p>
+
+<p>Alguns comentadores consideram o resultado destas eleições como uma vitória do terrorismo. Não posso estar mais em desacordo com os que assim analisam o desenlace destas eleições, que a meu ver representa uma atitude de intransingente repúdio da mentira pela parte do povo espanhol.</p>
+
+<p>A verdade é que o PP de Aznar geriu este atentado de uma forma desastrosa, tentando desde o início atribuir a todo o custo a responsabilidade do atentado à ETA, quando não era de todo óbvio que este tivesse sido cometido pela ETA, havendo até alguns indícios fortes de que poderá ter sido a Al-Qaida.</p>
+
+<p>Embora a campanha eleitoral tenha sido suspensa com apelos a que não houvesse aproveitamento político do atentado, o PP imediatamente começou a manobrar o atentado na direcção que lhe era mais favorável, não mencionando a Al-Qaida como possível autor, instruindo os seus embaixadores para apresentarem a ETA como o único suspeito e fugindo ao dever de informar os seus cidadãos. O Guardian tem um artigo que ilustra bem o vazio artifical de informação que foi sustentado pelo PP:</p>
+
+<p><a href="http://www.guardian.co.uk/spain/article/0,2763,1169467,00.html">Angry voters demand to know the truth behind carnage</a><blockquote><cite>Searching in vain for rolling news programmes since the bombings, people had found only Lion King cartoons and alien space invaders broadcast on the television.</cite></blockquote><blockquote><cite>Gradually, the horrified protesters realised Televisión Española, the state television station, wasn't showing their swelling crowds at the top of the 6 o'clock news. Many had had to rely on Italian radio, Portuguese television or phone calls from Israel to know there was a protest happening at all.</cite></blockquote></p>
+
+<p>O facto de esta sequência de acontecimentos ter sido despoletada pelo atentado não pode servir para branquear a atitude vergonhosa do governo de Aznar, que foi justamente castigado pelo eleitorado, independentemente de quem tiver cometido o atentado.</p>
+

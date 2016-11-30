@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Mockups for iProducts"
+published: true
+category:
+  - Web/Tech
+---
+<p>The <a href="http://www.flickr.com/photos/haimson/sets/72057594072838804/">Apple Ideas</a> Flickr photoset has 37 pictures of possible future Apple products, ranging from the utterly unconvincing to the terribly tantalizing. Here's a couple of favorites:</p>
+
+<p><a title="iPhoto" href="http://www.flickr.com/photos/haimson/106438817/"><img width="240" height="210" alt="iPhoto" src="http://static.flickr.com/40/106438817_d941dd89e1_m.jpg" /></a>
+<a title="iPhoto" href="http://www.flickr.com/photos/haimson/106439007/"><img width="240" height="212" alt="iPhoto" src="http://static.flickr.com/47/106439007_0fe9ca11e4_m.jpg" /></a>
+
+</p>
+
+<p>[via <a href="http://www.techeblog.com/index.php/tech-gadget/best-of-apple-ideas">Techeblog</a>]</p>
+

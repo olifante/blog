@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Democratas e Republicanos"
+published: true
+category:
+  - Current Affairs
+---
+<p>25 regras que definem um <a href="http://www.lyingsocialistweasels.com/rules_for_being_a_republican.htm">Bom Republicano</a>. A resposta inevitável são as 21 regras que definem um <a href="http://www.aboyandhiscomputer.com/gooddemocrat.html">Bom Democrata</a>.</p>
+

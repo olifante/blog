@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Inauguração"
+published: true
+category:
+  - Weblogs
+---
+<p>Benvindos ao Covil do Elefante, o meu novo blog. Aqui espero poder divulgar informações que considere úteis e suscitar debates sobre as questões que me são queridas. O meu apetite intelectual é ecléctico, o que significa que o leque de assuntos abordados poderá ser variado. Há no entanto alguns temas que irão provavelmente dominar este espaço: Política Internacional, Tecnologia, Programação e Música.</p>
+

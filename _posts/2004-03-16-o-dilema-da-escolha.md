@@ -1,0 +1,9 @@
+---
+layout: post
+title: "O Dilema da Escolha"
+published: true
+category:
+  - Current Affairs
+---
+<p>O Miguel Esteves Cardoso <a href="http://www.newyorker.com/critics/books/?040301crbo_books">mencionou no MetaFilter</a> um artigo interessante de Christopher Caldwell no New Yorker sobre o <a href="http://www.newyorker.com/critics/books/?040301crbo_books">Dilema da Escolha</a>.</p>
+
