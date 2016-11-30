@@ -1,0 +1,5 @@
+{ layout: 'post',
+  title: 'Ouch!',
+  published: true,
+  category: [ 'Web/Tech' ],
+  __content: '\n<a href="http://www.udolpho.com/weblog/?id=00712&title=Why-you-should-never-listen-to-geeks-and-in-fact-should-despise-them">Why you should never listen to geeks, and in fact should despise them…</a>\n<blockquote>During his evolution from insecure twerp to advanced energumen the geek acquires a self-regard that is truly incredible.  He will naturally assume that whatever skills he has are indications of genius or heroic mental endurance (or both), but that skills exhibited by members of other professions are easily learned rote tasks which one might entrust to a child or mutant ape, or else that have no value whatsoever.</blockquote>\n\n' }

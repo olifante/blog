@@ -1,0 +1,5 @@
+{ layout: 'post',
+  title: 'Linkies',
+  published: true,
+  category: [ 'Weblogs' ],
+  __content: '\n<p>From now on, when I read something interesting that I want to share but don\'t have anything useful to say about it or the time do it, I\'ll stop censoring myself and just post the links, using the prefix &quot;Linkies&quot; in the subject.</p>\n\n' }

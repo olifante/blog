@@ -1,0 +1,5 @@
+{ layout: 'post',
+  title: '1m s0 l33t!',
+  published: true,
+  category: [ 'Web/Tech' ],
+  __content: '\n<p>Link: <a href="http://www.blogtorrent.com/" title="Blog Torrent - Simplified bittorrent by Downhill Battle">Blog Torrent - Simplified bittorrent by Downhill Battle</a>.\n\n</p><blockquote cite="http://www.blogtorrent.com/"><p>Upcoming Feature Priorities\nOur goals are simplicity and integration. These are the highest priority features that we want to add as we move to version 1.0 and up:<br />1. Mac version. <span style="color: #ff3300;">A high percentage of the best bloggers, video artists, and filmmakers use macs. It is crucial to make a mac version of Blog Torrent.</span>\n</p></blockquote>\n\n' }

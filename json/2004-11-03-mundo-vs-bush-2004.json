@@ -1,0 +1,5 @@
+{ layout: 'post',
+  title: 'Mundo vs. Bush 2004',
+  published: true,
+  category: [ 'Current Affairs' ],
+  __content: '\nMapas constantemente actualizados dos resultados eleitorais nos EUA:\n<br/>\n<a href="http://www.nytimes.com/packages/html/politics/2004_ELECTIONRESULTS_GRAPHIC/">NYTimes</a><br/>\n<a href="http://www.cnn.com/ELECTION/2004/pages/results/president/">CNN</a><br/>\n<a href="http://news.yahoo.com/electionresults">Yahoo!</a><br/>\n<a href="http://www.mydd.com/popup.html">MyDD 2004 Poll Watcher</a><br/>\n<a href="http://network.ap.org/dynamic/files/specials/election_night_2004/us_map_govsenhouse/index.html?SITE=CSPANELN&SECTION=POLITICS&reload=true">C-SPAN</a><br/>\n\n' }

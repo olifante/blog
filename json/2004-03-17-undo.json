@@ -1,0 +1,5 @@
+{ layout: 'post',
+  title: 'Undo',
+  published: true,
+  category: [ 'Weblogs' ],
+  __content: '\n<p>Nova mudança de visual: voltei a um design parecido com o antigo, mas agora com duas colunas em vez de três. Aceitam-se comentários :-)</p>\n\n' }

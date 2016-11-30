@@ -1,0 +1,5 @@
+{ layout: 'post',
+  title: 'Genealogias da informática',
+  published: true,
+  category: [ 'Web/Tech' ],
+  __content: '\n<p>Para além de manter actualizada uma <a href="http://www.levenez.com/lang/">árvore genealógica</a> que relaciona 50 linguagens de programação, o francês <a href="http://www.levenez.com/">Éric Lévénez</a> mantém também árvores genealógicas detalhadas das famílias de sistemas operativos <a href="http://www.levenez.com/windows/">Windows</a> e <a href="http://www.levenez.com/unix/">Unix</a>. Sem querer desmerecer o excelente trabalho de Lévénez, só é pena que a espantosa <a href="http://www.levenez.com/unix/history.html">árvore genealógica do Unix</a> não distinga entre as diferentes distribuições de Linux, que estão representadas nesta árvore pelo seu kernel.</p>\n\n' }

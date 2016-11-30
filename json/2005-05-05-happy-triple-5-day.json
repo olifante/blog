@@ -1,0 +1,5 @@
+{ layout: 'post',
+  title: 'Happy Triple 5 Day!',
+  published: true,
+  category: [ 'Current Affairs' ],
+  __content: '\n<p>The date today is 05-05-05, the only date this year which looks the same in the american (mm/dd/yy), european (dd/mm/yy) and <a href="http://www.w3.org/TR/NOTE-datetime">ISO 8061</a> (yy-mm-dd) date formats. By the way, ISO dates rule! When sorted lexicographically, ISO dates automatically are sorted chronologically.</p>\n\n<p>Quick, someone invent a new Whatever-Day to sell more stuff to people on phony pretexts. Or maybe elect #-#-# as an international day for US-European-World Harmony. Thinking again, that might mean World War III beginning in 2013 and lasting until 2100, so perhaps we\'d better not.</p>\n\n' }

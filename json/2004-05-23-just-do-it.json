@@ -1,0 +1,5 @@
+{ layout: 'post',
+  title: 'Just do it!',
+  published: true,
+  category: [ 'Web/Tech' ],
+  __content: '\n<p>O Ian Bicking tem um artigo interessante intitulado <a href="http://blog.colorstudy.com/ianb/weblog/2004/05/21.html#P106">Building an Intuition</a> que discute o que diferencia os bons programadores dos restantes. O artigo tem uma citação do Miguel de Icaza:</p>\n<blockquote><cite>O meu conselho a todos os jovens programadores é começar a escrever código e deixar a resolução dos problemas imaginados para o momento em que estes se tornarem reais.</cite></blockquote>\nOu como nos <a href="http://www.jmserrat.com/letras/machado.html">Cantares</a> de Joan Manuel Serrat:\n<blockquote><cite>Caminante, no hay camino,<br/>\nse hace camino al andar.</cite></blockquote>\n\n' }

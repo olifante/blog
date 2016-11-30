@@ -1,0 +1,5 @@
+{ layout: 'post',
+  title: 'Fidec',
+  published: true,
+  category: [ 'Music' ],
+  __content: '\n<p>\n<a href="http://www.flickr.com/photos/olifante/2883776450/" title="Fidec by Olifante, on Flickr"><img src="http://farm4.static.flickr.com/3241/2883776450_52a44ed0c8.jpg" width="400" height="400" alt="Fidec"></a>\n</p>\n\n<p>\nHere\'s a new piano piece, dedicated to no one in particular.\n</p>\n\n<p>\n<object height="81" width="100%"> <param name="movie" value="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F18509432"></param> <param name="allowscriptaccess" value="always"></param> <embed allowscriptaccess="always" height="81" src="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F18509432" type="application/x-shockwave-flash" width="100%"></embed> </object>  <span><a href="http://soundcloud.com/olifante/fidec">Fidec</a> by <a href="http://soundcloud.com/olifante">olifante</a></span> \n</p>\n\n\n' }

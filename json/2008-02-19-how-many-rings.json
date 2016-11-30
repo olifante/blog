@@ -1,0 +1,5 @@
+{ layout: 'post',
+  title: 'How many rings?',
+  published: true,
+  category: [ 'Science' ],
+  __content: '\n<p>While digging through some old papers, I found a copy of what is probably my favorite puzzle. I googled it but couldn\'t find any references, so I\'m posting it. If anyone knows who authored it, let me know.</p>\n\n<hr />\n\n<p>There are 31 people around a table, each with a square of a given colour on the forehead. Each one must find out what his own colour is, without communicating in any way with the others.</p>\n\n<p>Successive rings are sounded, and each person must leave the table on finding out what his colour is.</p>\n\n<ul>\n<li>On the first ring, four persons left.</li>\n<li>On the second, everybody in red left.</li>\n<li>On the third, no one got up.</li>\n<li>On the fourth, at least one person got up.</li>\n</ul>\n\n<p>How many rings were sounded after that one?</p>\n\n<p>Remember that everybody passed the test.</p>\n\n<p>Additionally, the leader and his sister left before the last ring (the one that empties the table) and wore different colours.</p>\n\n\n' }

@@ -1,0 +1,5 @@
+{ layout: 'post',
+  title: '80% de Zombies',
+  published: true,
+  category: [ 'Web/Tech' ],
+  __content: '\n<p>Link: <a title="Asia Times Online - News from greater China; Hong Kong and Taiwan" href="http://www.atimes.com/atimes/China/FL14Ad02.html">Asia Times Online - News from greater China; Hong Kong and Taiwan</a>.\n\n</p><blockquote cite="http://www.atimes.com/atimes/China/FL14Ad02.html"><p>According to network management firm Sandvine, about 80% of spam is now sent via legions of PCs owned by ordinary - and usually oblivious - computer users around the world.</p></blockquote>\n\n' }

@@ -1,0 +1,5 @@
+{ layout: 'post',
+  title: 'Sistemas Operativos',
+  published: true,
+  category: [ 'Web/Tech' ],
+  __content: '\n<p>Encontrado numa assinatura do Slashdot:</p>\n\n<p>Microsoft: Where do you want to go today?<br />\nApple: Where do you want to go tomorrow?<br />\nLinux: Are you guys coming or what?!</p>\n\n<p>Uma variação sobre o mesmo tema:</p>\n\n<p>Microsoft: Let\'s go in my Honda today.<br />\nApple: Let\'s go in my BMW.<br />\nLinux: Hey guys! I built my own car!</p>\n\n' }

@@ -1,0 +1,5 @@
+{ layout: 'post',
+  title: 'Bluebirds and blackbirds',
+  published: true,
+  category: [ 'Science' ],
+  __content: '\n<p>Another great puzzle:</p>\n\n<p>A collection of bluebirds and blackbirds sit on a wire. <br />\n1. There is at least one bird of each type. <br />\n2. Each pair of birds with 15 or 20 birds between them are the same color.  </p>\n\n<p>What is the largest number of birds that could be sitting on the wire?</p>\n\n\n' }
