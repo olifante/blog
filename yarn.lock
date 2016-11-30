@@ -88,6 +88,10 @@ js-yaml@^3.5.2:
     argparse "^1.0.7"
     esprima "^2.6.0"
 
+jsonic@^0.2.2:
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/jsonic/-/jsonic-0.2.2.tgz#127bb99df4d821652c48a23d025cf2b16e618491"
+
 "minimatch@>= 0.1.0", minimatch@^3.0.2:
   version "3.0.3"
   resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-3.0.3.tgz#2a4e4090b96b2db06a9d7df01055a62a77c9b774"
