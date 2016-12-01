@@ -11,6 +11,7 @@ fs.readdir(testFolder, (err, files) => {
                 'utf8'
             )
         )
-        console.log(obj.__content)
+        newFile = file.substr(0, file.lastIndexOf(".")) + ".html"
+        fs.writeFileSync('./html/' + newFile, obj.__content, 'utf8')
     })
 })
