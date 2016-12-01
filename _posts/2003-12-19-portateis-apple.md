@@ -5,5 +5,11 @@ published: true
 category:
   - Web/Tech
 ---
-<p>O blog do Simon Willison tem um <a href="http://simon.incutio.com/archive/2003/12/16/macBuyingAdvice">artigo</a> que discute as vantagens e desvantagens dos diversos modelos da gama de portáteis da Apple, incluindo especulações sobre modelos futuros que poderão ser lançados num futuro próximo. Vale a pena ler os comentários, que acrescentam muita informação interessante.</p>
 
+O blog do Simon Willison tem um [artigo] que discute as vantagens e
+desvantagens dos diversos modelos da gama de portáteis da Apple,
+incluindo especulações sobre modelos futuros que poderão ser lançados
+num futuro próximo. Vale a pena ler os comentários, que acrescentam
+muita informação interessante.
+
+  [artigo]: http://simon.incutio.com/archive/2003/12/16/macBuyingAdvice

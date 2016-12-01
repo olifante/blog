@@ -5,1064 +5,230 @@ published: true
 category:
   - Music
 ---
-<p><strong>Actualização 2006-03-27:</strong> a lista mais recente está disponível no post <a href="http://olifante.blogs.com/covil/2006/03/melopdia.html">Melopedia</a>.</p>
 
-<p>Nova actualização da lista de músicas de anúncios:</p>
+**Actualização 2006-03-27:** a lista mais recente está disponível no
+post [Melopedia].
 
-<p><span style="font-size: 90%;">
-<table width="95%" border="1" align="right" valign="top">
-<tbody>
-<tr>
-<th>Artista</th>
+Nova actualização da lista de músicas de anúncios:
 
-<th>Música</th>
+<span style="font-size: 90%;"> </span>
 
-<th>Marca</th>
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Artista                             Música                                 Marca                               Campanha ou Anúncio
+  ----------------------------------- -------------------------------------- ----------------------------------- ------------------------------------------------------------------------------------
+  Karen O. (Yeah Yeah Yeahs)          Hello Morning                          Adidas                              Ténis
 
-<th>Campanha ou Anúncio</th>
-</tr>
+                                                                             Armani                              black code
 
-<tr>
-<td>Karen O. (Yeah Yeah Yeahs)</td>
+  Perry Blake                         Ordinary Day                           Banif                               
 
-<td>Hello Morning</td>
+                                                                             Bosch                               Car service
 
-<td>Adidas</td>
+                                                                             Calvin Klein                        *Anúncio com Scarlett Johansson*
 
-<td>Ténis</td>
-</tr>
+  Gomo                                Feeling alive                          Caixa Geral de Depósitos            
 
-<tr>
-<td></td>
+                                                                             Chiclet                             Ice Crush
 
-<td></td>
+  Clash                               Magnificent seven                      Citroën                             C4
 
-<td>Armani</td>
+  Kid Loco                            Youpi                                  Clix                                ADSL 16Mb
 
-<td>black code</td>
-</tr>
+  Maria Bethânia (?)                  Desafinado                             Coca-Cola                           Coca-Cola Light
 
-<tr>
-<td>Perry Blake</td>
+  Homer Green\                        You go to my head                      Compal                              
+  Castele                                                                                                        
 
-<td>Ordinary Day</td>
+  Blur                                The universal                          CTT Correios                        
 
-<td>Banif</td>
+  Rita Lee                                                                   Dan Up                              Daníssimo
 
-<td></td>
-</tr>
+                                                                             Dove                                *"Pele cobre tudo, pele de veludo, pele de     bebé"*
 
-<tr>
-<td></td>
+                                                                             Elite Model                         Elite Model Look
 
-<td></td>
+  Rod Stewart                         Do ya think I'm sexy (remix)           FHM                                 
 
-<td>Bosch</td>
+  Jules Bromle                        Rasta Pasta                            Galp                                G-Force
 
-<td>Car service</td>
-</tr>
+                                                                             Hugo Boss                           soul
 
-<tr>
-<td></td>
+                                                                             Kenzo                               Perfume flower
 
-<td></td>
+  Natasha Thomas                      It's over now                          Lacoste                             Touch of pink
 
-<td>Calvin Klein</td>
+  Natasha Thomas                      Save your kisses for me                Lacoste                             Touch of pink
 
-<td><em>Anúncio com Scarlett Johansson</em></td>
-</tr>
+  Natasha Thomas                      Let me show you the way                Lacoste                             Touch of pink
 
-<tr>
-<td>Gomo</td>
+  Hillary Duff (?)                                                           Lacoste                             *Miúda do frasco vermelho*
 
-<td>Feeling alive</td>
+  Pepe Deluxe                         Before you leave                       Levi's                              
 
-<td>Caixa Geral de Depósitos</td>
+                                                                             L'Oréal                             Sculpt up
 
-<td></td>
-</tr>
+  Miguel Cardona                                                             Luso (água)                         
 
-<tr>
-<td></td>
+                                                                             McDonalds                           Dia da Mãe *(com grávidas)*
 
-<td></td>
+  2 Umlimited                         No limit                               Mentos                              
 
-<td>Chiclet</td>
+  Cristina Aguillera                  Hello                                  Mercedes                            Classe A
 
-<td>Ice Crush</td>
-</tr>
+  Debe Boulevard                      Point of view                          Millenium BCP                       
 
-<tr>
-<td>Clash</td>
+  Se te amo                           Quinta do Bill                         Mimosa                              Mimosa Cálcio
 
-<td>Magnificent seven</td>
+  The Wannadies                       You and me song                        Mimosa                              
 
-<td>Citroën</td>
+                                                                             Mini-preço                          *Homem a distribuir folhetos para fazer dieta pelos carros*
 
-<td>C4</td>
-</tr>
+  PlanetFunk                          The switch                             Mitsubishi                          
 
-<tr>
-<td>Kid Loco</td>
+  Boss AC                             Hip Hop (sou eu e és tu)               Morangos com açúcar (programa TV)   *Música do Crómio*
 
-<td>Youpi</td>
+  Dabrye                              Hyped-Up Plus Tax                      Motorola                            Razr V3
 
-<td>Clix</td>
+                                                                             Nestlé                              Snack
 
-<td>ADSL 16Mb</td>
-</tr>
+                                                                             Nivea                               Deo Pure
 
-<tr>
-<td>Maria Bethânia (?)</td>
+  This Mortal Coil                    Song to the sirens                     NOA                                 
 
-<td>Desafinado</td>
+  Trickbaby                           Zap me lovely                          Nokia                               Telemóveis Nokia Fashion
 
-<td>Coca-Cola</td>
+  DJ Tiesto                           Lethal Industry                        Olá (gelados)                       Love2dance 2005
 
-<td>Coca-Cola Light</td>
-</tr>
+  Kinobe                              Slip into something more comfortable   Olá (gelados)                       
 
-<tr>
-<td>Homer Green<br />
-Castele</td>
+  Safri Duo                           Bongo song                             Olá (gelados)                       
 
-<td>You go to my head</td>
+                                                                             Olá (gelados)                       Carte d'Or Toblerone
 
-<td>Compal</td>
+                                                                             Olá (gelados)                       *Bonecos 3-d dos gelados Supermax, Perna-de-pau e    Epá a imitar uma "boys band"*
 
-<td></td>
-</tr>
+  David Bowie                         Heroes                                 Omega                               
 
-<tr>
-<td>Blur</td>
+                                                                             Opel                                *Ar condicionado com lobo*
 
-<td>The universal</td>
+  Chicago                             If you leave me now                    ONI                                 ONI Duo
 
-<td>CTT Correios</td>
+  The Veils                           The leaver's dance                     Optimus                             3g
 
-<td></td>
-</tr>
+  Mew                                 Comforting sounds                      Optimus                             
 
-<tr>
-<td>Rita Lee</td>
+  JJ72                                October swimmer                        Optimus                             
 
-<td></td>
+  Thomas Newman (?)                   Dead Already (?)                       Pantene                             
 
-<td>Dan Up</td>
+  Jakatta / Joey Negro (?)            American Dream (?)                     Pantene                             
 
-<td>Daníssimo</td>
-</tr>
+                                                                             Pedras Salgadas (água)              Levíssima
 
-<tr>
-<td></td>
+  Israel Kamakawiwo'ole               Somewhere over the rainbow             Pequeno Ecoponto                    
 
-<td></td>
+  Simian                              LA breeze                              Peugeot                             1007
 
-<td>Dove</td>
+                                                                             Portugal Telecom                    Kit de televigilância *(paredes transparentes,     música de piano)*
 
-<td><em>&quot;Pele cobre tudo, pele de veludo, pele de&nbsp; &nbsp;&nbsp; 
-bebé&quot;</em></td>
-</tr>
+  Marco Delgado                       [Mudam-se os tempos]                   Portugal Telecom                    Campanha "Inovar, mudar, melhorar é a nossa     tradição"
 
-<tr>
-<td></td>
+  Aimee Mann                          Wise up                                Prevenção Rodoviária Portuguesa     
 
-<td></td>
+  Yo Yo Ma & Bobby McFerrin                                                  Renault                             Twingo
 
-<td>Elite Model</td>
+                                                                             Santa Casa                          Lotaria da Páscoa 2005
 
-<td>Elite Model Look</td>
-</tr>
+                                                                             Seven-up                            *Anúncio à entrada de uma discoteca*
 
-<tr>
-<td>Rod Stewart</td>
+                                                                             Skoda                               Octavia Break
 
-<td>Do ya think I'm sexy (remix)</td>
+  Stereo Total                        I love you Ono                         Sony                                Handycam DVD DCR-DVD101
 
-<td>FHM</td>
+  Robbie Williams                     Let me entertain you                   Só Visto (programa TV)              Genérico
 
-<td></td>
-</tr>
+  Zedisaneonlight                     Give you my (love)                     Sumol                               
 
-<tr>
-<td>Jules Bromle</td>
+  Fingertips                          Picture of my own                      Superbock                           Superbock Green
 
-<td>Rasta Pasta</td>
+  Moby                                Love should                            Superbock                           *Anúncio com reflexo do sol*
 
-<td>Galp</td>
+  Five for Fighting                   Something about you                    Swatch                              
 
-<td>G-Force</td>
-</tr>
+  Five for Fighting                   100 years                              Swatch                              
 
-<tr>
-<td></td>
+                                                                             Swatch                              Touch
 
-<td></td>
+  Ez Special                          Daisy                                  TMN                                 i9 3G
 
-<td>Hugo Boss</td>
+  Ez Special                          My explanation                         TMN                                 i9 3G
 
-<td>soul</td>
-</tr>
+                                                                             TMN                                 5 milhões
 
-<tr>
-<td></td>
+                                                                             TMN                                 Verão 2004
 
-<td></td>
+                                                                             TMN                                 Preto no branco
 
-<td>Kenzo</td>
+                                                                             TMN                                 *Batata quente*
 
-<td>Perfume flower</td>
-</tr>
+  Spencer Davis Group                 Keep On Running                        Toyota                              Corolla
 
-<tr>
-<td>Natasha Thomas</td>
+                                      Necesito Aire Fresco                   Tridente                            *Anúncio com Ronaldinho*
 
-<td>It's over now</td>
+                                                                             Triunfo (bolachas)                  *Anúncio com bébés*
 
-<td>Lacoste</td>
+  The Dandy Warkols                   Bohemian like you                      Vodafone                            
 
-<td>Touch of pink</td>
-</tr>
+  David Fonseca                       The 80's                               Vodafone                            
 
-<tr>
-<td>Natasha Thomas</td>
+  The Mock Turtles                    Can you dig it?                        Vodafone                            
 
-<td>Save your kisses for me</td>
+  Jet                                 Are you gonna be my girl               Vodafone                            
 
-<td>Lacoste</td>
+  The Gift                            Driving you slow                       Vodafone                            
 
-<td>Touch of pink</td>
-</tr>
+  Flipsyde                            Get ready                              Vodafone                            
 
-<tr>
-<td>Natasha Thomas</td>
+  50 cent                             Disco inferno                          Vodafone                            
 
-<td>Let me show you the way</td>
+  Wolfman (featuring Peter Doherty)   For lovers                             Vodafone                            *Anúncio no aeroporto*
 
-<td>Lacoste</td>
+  Black Eyed Peas                     Hay mama                               Vodafone                            
 
-<td>Touch of pink</td>
-</tr>
+  The Plot                            Blues for a girl                       Vodafone                            
 
-<tr>
-<td>Hillary Duff (?)</td>
+                                                                             Vodafone                            2005
 
-<td></td>
+                                                                             Vodafone                            Blackberry
 
-<td>Lacoste</td>
+  Capitaine Plouf                     Instant karma                          Volkswagen                          Golf
 
-<td><em>Miúda do frasco vermelho</em></td>
-</tr>
+  Hush                                Lovestruck                             Volkswagen                          Polo
 
-<tr>
-<td>Pepe Deluxe</td>
+  Paul Johnson                        Get get down                           Whisky não-identificado             
 
-<td>Before you leave</td>
+  Carl Orff                           Gassenhauer                            Whisky Cutty Sark                   
 
-<td>Levi's</td>
+  FC Kahuna                           Hayling                                Whisky Grants                       
 
-<td></td>
-</tr>
+  Baby Bird                           Atomic Soda                            Whisky Grants                       
 
-<tr>
-<td></td>
+  Carl Orff                           Schulwerk                              Whisky JB                           
 
-<td></td>
+  Muse                                Ruled by Secrecy                       Whisky Johnny Walker                
 
-<td>L'Oréal</td>
+  Unemployed Guru                     Big Plant                              Worten                              Campanha de trocas
 
-<td>Sculpt up</td>
-</tr>
+  Chambao                             Ahi estas tu                                                               Andalucia
 
-<tr>
-<td>Miguel Cardona</td>
+  Adriana Calcanhoto                  Fico assim sem você                                                        Bife sem batatas
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<td></td>
+**\
+\
+Actualização 2005-07-28:** *acrescentei algumas músicas identificadas
+pelo Bruno Rodrigues no [MoiMeme]*
 
-<td>Luso (água)</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td></td>
-
-<td></td>
-
-<td>McDonalds</td>
-
-<td>Dia da Mãe <em>(com grávidas)</em></td>
-</tr>
-
-<tr>
-<td>2 Umlimited</td>
-
-<td>No limit</td>
-
-<td>Mentos</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td>Cristina Aguillera</td>
-
-<td>Hello</td>
-
-<td>Mercedes</td>
-
-<td>Classe A</td>
-</tr>
-
-<tr>
-<td>Debe Boulevard</td>
-
-<td>Point of view</td>
-
-<td>Millenium BCP</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td>Se te amo</td>
-
-<td>Quinta do Bill</td>
-
-<td>Mimosa</td>
-
-<td>Mimosa Cálcio</td>
-</tr>
-
-<tr>
-<td>The Wannadies</td>
-
-<td>You and me song</td>
-
-<td>Mimosa</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td></td>
-
-<td></td>
-
-<td>Mini-preço</td>
-
-<td><em>Homem a distribuir folhetos para fazer dieta pelos 
-carros</em></td>
-</tr>
-
-<tr>
-<td>PlanetFunk</td>
-
-<td>The switch</td>
-
-<td>Mitsubishi</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td>Boss AC</td>
-
-<td>Hip Hop (sou eu e és tu)</td>
-
-<td>Morangos com açúcar (programa TV)</td>
-
-<td><em>Música do Crómio</em></td>
-</tr>
-
-<tr>
-<td>Dabrye</td>
-
-<td>Hyped-Up Plus Tax</td>
-
-<td>Motorola</td>
-
-<td>Razr V3</td>
-</tr>
-
-<tr>
-<td></td>
-
-<td></td>
-
-<td>Nestlé</td>
-
-<td>Snack</td>
-</tr>
-
-<tr>
-<td></td>
-
-<td></td>
-
-<td>Nivea</td>
-
-<td>Deo Pure</td>
-</tr>
-
-<tr>
-<td>This Mortal Coil</td>
-
-<td>Song to the sirens</td>
-
-<td>NOA</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td>Trickbaby</td>
-
-<td>Zap me lovely</td>
-
-<td>Nokia</td>
-
-<td>Telemóveis Nokia Fashion</td>
-</tr>
-
-<tr>
-<td>DJ Tiesto</td>
-
-<td>Lethal Industry</td>
-
-<td>Olá (gelados)</td>
-
-<td>Love2dance 2005</td>
-</tr>
-
-<tr>
-<td>Kinobe</td>
-
-<td>Slip into something more comfortable</td>
-
-<td>Olá (gelados)</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td>Safri Duo</td>
-
-<td>Bongo song</td>
-
-<td>Olá (gelados)</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td></td>
-
-<td></td>
-
-<td>Olá (gelados)</td>
-
-<td>Carte d'Or Toblerone</td>
-</tr>
-
-<tr>
-<td></td>
-
-<td></td>
-
-<td>Olá (gelados)</td>
-
-<td><em>Bonecos 3-d dos gelados Supermax, Perna-de-pau e&nbsp; &nbsp;
-Epá a imitar uma &quot;boys band&quot;</em></td>
-</tr>
-
-<tr>
-<td>David Bowie</td>
-
-<td>Heroes</td>
-
-<td>Omega</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td></td>
-
-<td></td>
-
-<td>Opel</td>
-
-<td><em>Ar condicionado com lobo</em></td>
-</tr>
-
-<tr>
-<td>Chicago</td>
-
-<td>If you leave me now</td>
-
-<td>ONI</td>
-
-<td>ONI Duo</td>
-</tr>
-
-<tr>
-<td>The Veils</td>
-
-<td>The leaver's dance</td>
-
-<td>Optimus</td>
-
-<td>3g</td>
-</tr>
-
-<tr>
-<td>Mew</td>
-
-<td>Comforting sounds</td>
-
-<td>Optimus</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td>JJ72</td>
-
-<td>October swimmer</td>
-
-<td>Optimus</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td>Thomas Newman (?)</td>
-
-<td>Dead Already (?)</td>
-
-<td>Pantene</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td>Jakatta / Joey Negro (?)</td>
-
-<td>American Dream (?)</td>
-
-<td>Pantene</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td></td>
-
-<td></td>
-
-<td>Pedras Salgadas (água)</td>
-
-<td>Levíssima</td>
-</tr>
-
-<tr>
-<td>Israel Kamakawiwo'ole</td>
-
-<td>Somewhere over the rainbow</td>
-
-<td>Pequeno Ecoponto</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td>Simian</td>
-
-<td>LA breeze</td>
-
-<td>Peugeot</td>
-
-<td>1007</td>
-</tr>
-
-<tr>
-<td></td>
-
-<td></td>
-
-<td>Portugal Telecom</td>
-
-<td>Kit de televigilância <em>(paredes transparentes,&nbsp; &nbsp;&nbsp; 
-música de piano)</em></td>
-</tr>
-
-<tr>
-<td>Marco Delgado</td>
-
-<td><a href="http://info.sapo.pt/nn1/578143.html">Mudam-se 
-os tempos</a></td>
-
-<td>Portugal Telecom</td>
-
-<td>Campanha &quot;Inovar, mudar, melhorar é a nossa&nbsp; &nbsp;&nbsp; 
-tradição&quot;</td>
-</tr>
-
-<tr>
-<td>Aimee Mann</td>
-
-<td>Wise up</td>
-
-<td>Prevenção Rodoviária Portuguesa</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td>Yo Yo Ma &amp; Bobby McFerrin</td>
-
-<td></td>
-
-<td>Renault</td>
-
-<td>Twingo</td>
-</tr>
-
-<tr>
-<td></td>
-
-<td></td>
-
-<td>Santa Casa</td>
-
-<td>Lotaria da Páscoa 2005</td>
-</tr>
-
-<tr>
-<td></td>
-
-<td></td>
-
-<td>Seven-up</td>
-
-<td><em>Anúncio à entrada de uma discoteca</em></td>
-</tr>
-
-<tr>
-<td></td>
-
-<td></td>
-
-<td>Skoda</td>
-
-<td>Octavia Break</td>
-</tr>
-
-<tr>
-<td>Stereo Total</td>
-
-<td>I love you Ono</td>
-
-<td>Sony</td>
-
-<td>Handycam DVD DCR-DVD101</td>
-</tr>
-
-<tr>
-<td>Robbie Williams</td>
-
-<td>Let me entertain you</td>
-
-<td>Só Visto (programa TV)</td>
-
-<td>Genérico</td>
-</tr>
-
-<tr>
-<td>Zedisaneonlight</td>
-
-<td>Give you my (love)</td>
-
-<td>Sumol</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td>Fingertips</td>
-
-<td>Picture of my own</td>
-
-<td>Superbock</td>
-
-<td>Superbock Green</td>
-</tr>
-
-<tr>
-<td>Moby</td>
-
-<td>Love should</td>
-
-<td>Superbock</td>
-
-<td><em>Anúncio com reflexo do sol</em></td>
-</tr>
-
-<tr>
-<td>Five for Fighting</td>
-
-<td>Something about you</td>
-
-<td>Swatch</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td>Five for Fighting</td>
-
-<td>100 years</td>
-
-<td>Swatch</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td></td>
-
-<td></td>
-
-<td>Swatch</td>
-
-<td>Touch</td>
-</tr>
-
-<tr>
-<td>Ez Special</td>
-
-<td>Daisy</td>
-
-<td>TMN</td>
-
-<td>i9 3G</td>
-</tr>
-
-<tr>
-<td>Ez Special</td>
-
-<td>My explanation</td>
-
-<td>TMN</td>
-
-<td>i9 3G</td>
-</tr>
-
-<tr>
-<td></td>
-
-<td></td>
-
-<td>TMN</td>
-
-<td>5 milhões</td>
-</tr>
-
-<tr>
-<td></td>
-
-<td></td>
-
-<td>TMN</td>
-
-<td>Verão 2004</td>
-</tr>
-
-<tr>
-<td></td>
-
-<td></td>
-
-<td>TMN</td>
-
-<td>Preto no branco</td>
-</tr>
-
-<tr>
-<td></td>
-
-<td></td>
-
-<td>TMN</td>
-
-<td><em>Batata quente</em></td>
-</tr>
-
-<tr>
-<td>Spencer Davis Group</td>
-
-<td>Keep On Running</td>
-
-<td>Toyota</td>
-
-<td>Corolla</td>
-</tr>
-
-<tr>
-<td></td>
-
-<td>Necesito Aire Fresco</td>
-
-<td>Tridente</td>
-
-<td><em>Anúncio com Ronaldinho</em></td>
-</tr>
-
-<tr>
-<td></td>
-
-<td></td>
-
-<td>Triunfo (bolachas)</td>
-
-<td><em>Anúncio com bébés</em></td>
-</tr>
-
-<tr>
-<td>The Dandy Warkols</td>
-
-<td>Bohemian like you</td>
-
-<td>Vodafone</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td>David Fonseca</td>
-
-<td>The 80's</td>
-
-<td>Vodafone</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td>The Mock Turtles</td>
-
-<td>Can you dig it?</td>
-
-<td>Vodafone</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td>Jet</td>
-
-<td>Are you gonna be my girl</td>
-
-<td>Vodafone</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td>The Gift</td>
-
-<td>Driving you slow</td>
-
-<td>Vodafone</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td>Flipsyde</td>
-
-<td>Get ready</td>
-
-<td>Vodafone</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td>50 cent</td>
-
-<td>Disco inferno</td>
-
-<td>Vodafone</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td>Wolfman (featuring Peter Doherty)</td>
-
-<td>For lovers</td>
-
-<td>Vodafone</td>
-
-<td><em>Anúncio no aeroporto</em></td>
-</tr>
-
-<tr>
-<td>Black Eyed Peas</td>
-
-<td>Hay mama</td>
-
-<td>Vodafone</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td>The Plot</td>
-
-<td>Blues for a girl</td>
-
-<td>Vodafone</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td></td>
-
-<td></td>
-
-<td>Vodafone</td>
-
-<td>2005</td>
-</tr>
-
-<tr>
-<td></td>
-
-<td></td>
-
-<td>Vodafone</td>
-
-<td>Blackberry</td>
-</tr>
-
-<tr>
-<td>Capitaine Plouf</td>
-
-<td>Instant karma</td>
-
-<td>Volkswagen</td>
-
-<td>Golf</td>
-</tr>
-
-<tr>
-<td>Hush</td>
-
-<td>Lovestruck</td>
-
-<td>Volkswagen</td>
-
-<td>Polo</td>
-</tr>
-
-<tr>
-<td>Paul Johnson</td>
-
-<td>Get get down</td>
-
-<td>Whisky não-identificado</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td>Carl Orff</td>
-
-<td>Gassenhauer</td>
-
-<td>Whisky Cutty Sark</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td>FC Kahuna</td>
-
-<td>Hayling</td>
-
-<td>Whisky Grants</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td>Baby Bird</td>
-
-<td>Atomic Soda</td>
-
-<td>Whisky Grants</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td>Carl Orff</td>
-
-<td>Schulwerk</td>
-
-<td>Whisky JB</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td>Muse</td>
-
-<td>Ruled by Secrecy</td>
-
-<td>Whisky Johnny Walker</td>
-
-<td></td>
-</tr>
-
-<tr>
-<td>Unemployed Guru</td>
-
-<td>Big Plant</td>
-
-<td>Worten</td>
-
-<td>Campanha de trocas</td>
-</tr>
-
-<tr>
-<td>Chambao</td>
-
-<td>Ahi estas tu</td>
-
-<td></td>
-
-<td>Andalucia</td>
-</tr>
-
-<tr>
-<td>Adriana Calcanhoto</td>
-
-<td>Fico assim sem você</td>
-
-<td></td>
-
-<td>Bife sem batatas</td>
-</tr>
-</tbody>
-</table>
-</span>
-</p>
-
-<p><strong><br /><br />Actualização 2005-07-28:</strong> <em>acrescentei algumas músicas
-identificadas pelo Bruno Rodrigues no <a href="http://rage.against.org/AdvertisingMusic">MoiMeme</a></em></p>
-
+  [Melopedia]: http://olifante.blogs.com/covil/2006/03/melopdia.html
+  [Mudam-se os tempos]: http://info.sapo.pt/nn1/578143.html
+  [MoiMeme]: http://rage.against.org/AdvertisingMusic

@@ -6,5 +6,16 @@ categories:
   - Web/Tech
   - Weblogs
 ---
-<p>A página <a href="http://www.asymptomatic.net/blogbreakdown.htm">Blog Software Breakdown</a> oferece uma análise comparativa dos diferentes programas e serviços disponíveis para quem quer criar e gerir um blog. O autor da comparação <a href="http://www.asymptomatic.net/archives/2004/05/28/568/blogware-choice">acabou por escolher</a> o <a href="http://wordpress.org/">WordPress</a>, que tem dado muito que falar desde a confusão com a alteração da licença do <a href="http://www.movabletype.org/">MovableType</a> (no qual se baseia o <a href="http://typepad.com/">TypePad</a> que uso para manter este blog).</p>
 
+A página [Blog Software Breakdown] oferece uma análise comparativa dos
+diferentes programas e serviços disponíveis para quem quer criar e gerir
+um blog. O autor da comparação [acabou por escolher] o [WordPress], que
+tem dado muito que falar desde a confusão com a alteração da licença do
+[MovableType] (no qual se baseia o [TypePad] que uso para manter este
+blog).
+
+  [Blog Software Breakdown]: http://www.asymptomatic.net/blogbreakdown.htm
+  [acabou por escolher]: http://www.asymptomatic.net/archives/2004/05/28/568/blogware-choice
+  [WordPress]: http://wordpress.org/
+  [MovableType]: http://www.movabletype.org/
+  [TypePad]: http://typepad.com/

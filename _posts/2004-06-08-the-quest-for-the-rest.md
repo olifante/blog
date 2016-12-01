@@ -5,7 +5,13 @@ published: true
 category:
   - Games
 ---
-Os fãs de puzzles interactivos podem regozijar: Os <a href="http://www.jimmy-k.com/amanita/amanita.swf">criadores do Samorost</a> lançaram um novo jogo, intitulado <a title="The Polyphonic Spree - The Quest For The Rest" href="http://www.questfortherest.com/">The Polyphonic Spree - The Quest For The Rest</a>. O jogo foi encomendado pela banda <a href="http://www.thepolyphonicspree.com/">The Polyphonic Spree</a> para promover o seu álbum <em>The Quest for the Rest</em>.
 
+Os fãs de puzzles interactivos podem regozijar: Os [criadores do
+Samorost] lançaram um novo jogo, intitulado [The Polyphonic Spree - The
+Quest For The Rest]. O jogo foi encomendado pela banda [The Polyphonic
+Spree] para promover o seu álbum *The Quest for the Rest*.
 
-
+  [criadores do Samorost]: http://www.jimmy-k.com/amanita/amanita.swf
+  [The Polyphonic Spree - The Quest For The Rest]: http://www.questfortherest.com/
+    "The Polyphonic Spree - The Quest For The Rest"
+  [The Polyphonic Spree]: http://www.thepolyphonicspree.com/

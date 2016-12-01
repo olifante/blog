@@ -5,221 +5,244 @@ published: true
 category:
   - Music
 ---
-<p>Já há mais de um ano que um amigo meu, o Bruno, me mostrou um site fabuloso de crítica musical: o <a href="http://www.pitchforkmedia.com/">Pitchfork</a>. Entre muitas coisas, o Pitchfork produz anualmente uma lista dos melhores álbuns do ano anterior que me tem ajudado a descobrir artistas como os Arcade Fire, Fiery Furnaces, Devendra Banhart, A.C. Newman e Iron & Wine.
-</p>
-<p>As listas começaram em 1999 com um top 10 que foi rapidamente expandido para top 20 nos dois anos seguintes e expandido para um top 50 nos três últimos anos. Infelizmente a partir de 2002 o Pitchfork optou por um formato de apresentação que não me agrada muito, em que a lista é revelada começando pelo fundo da lista subindo dez a dez álbuns até ao primeiro lugar. Aqui vão as listas dos últimos anos num formato mais legível:</p>
-<p>
-<a href="http://www.pitchforkmedia.com/top/2004/">Pitchfork Best Albums of 2004</a>
-<ol> <li>The Arcade Fire - Funeral</li>
-<li>Animal Collective - Sung Tongs</li>
-<li>The Streets - A Grand Don't Come for Free</li>
-<li>The Fiery Furnaces - Blueberry Boat</li>
-<li>Brian Wilson - Smile</li>
-<li>Madvillain - Madvillainy</li>
-<li>Devendra Banhart - Rejoicing in the Hands</li>
-<li>The Go! Team - Thunder Lightning Strike</li>
-<li>Ghostface - The Pretty Toney Album</li>
-<li>Joanna Newsom - The Milk-Eyed Mender</li>
-<li>Sonic Youth - Sonic Nurse</li>
-<li>M.I.A. / Diplo - Piracy Funds Terrorism, Vol. 1</li>
-<li>Dungen - Ta Det Lugnt</li>
-<li>Erlend Øye - DJ-Kicks</li>
-<li>Annie - Anniemal</li>
-<li>Dizzee Rascal - Showtime</li>
-<li>Sufjan Stevens - Seven Swans</li>
-<li>Kanye West - The College Dropout</li>
-<li>Björk - Medulla</li>
-<li>Air - Talkie Walkie</li>
-<li>Fennesz - Venice</li>
-<li>The Foreign Exchange - Connected</li>
-<li>Modest Mouse - Good News for People Who Love Bad News</li>
-<li>TV on the Radio - Desperate Youth, Blood Thirsty Babes</li>
-<li>Various Artists - DFA Compilation #2</li>
-<li>Franz Ferdinand - Franz Ferdinand</li>
-<li>Interpol - Antics</li>
-<li>Junior Boys - Last Exit</li>
-<li>A.C. Newman - The Slow Wonder</li>
-<li>William Basinski - The Disintegration Loops</li>
-<li>De La Soul - The Grind Date</li>
-<li>Califone - Heron King Blues</li>
-<li>The Futureheads - The Futureheads</li>
-<li>Espers - Espers</li>
-<li>Mirah - C'mon Miracle</li>
-<li>Excepter - KA</li>
-<li>Jóhann Jóhannsson - Virðulegu Forsetar</li>
-<li>Morrissey - You Are The Quarry</li>
-<li>Cee-Lo - Cee-Lo Green Is a Soul Machine</li>
-<li>The Walkmen - Bows and Arrows</li>
-<li>Les Savy Fav - Inches</li>
-<li>DJ/Rupture - Special Gunpowder</li>
-<li>Scissor Sisters - Scissor Sisters</li>
-<li>Camera Obscura - Underachievers Please Try Harder</li>
-<li>The Concretes - The Concretes</li>
-<li>Iron & Wine - Our Endless Numbered Days</li>
-<li>Comets on Fire - Blue Cathedral</li>
-<li>Loretta Lynn - Van Lear Rose</li>
-<li>Max Richter - The Blue Notebooks</li>
-<li>Xiu Xiu - Fabulous Muscles</li>
-</ol>
-<a href="http://www.pitchforkmedia.com/top/2003/">Pitchfork Best Albums of 2003</a>
-<ol> <li>The Rapture - Echoes</li>
-<li>The Books - The Lemon of Pink</li>
-<li>Sufjan Stevens - Greetings from Michigan: The Great Lake State</li>
-<li>Radiohead - Hail to the Thief</li>
-<li>Manitoba - Up in Flames</li>
-<li>Prefuse 73 - One Word Extinguisher + Extinguished: Outtakes</li>
-<li>The Shins - Chutes Too Narrow</li>
-<li>M83 - Dead Cities, Red Seas & Lost Ghosts</li>
-<li>Broken Social Scene - You Forgot It in People</li>
-<li>The Unicorns - Who Will Cut Our Hair When We're Gone?</li>
-<li>The Strokes - Room on Fire</li>
-<li>Dizzee Rascal - Boy in Da Corner</li>
-<li>Mu - Afro Finger & Gel</li>
-<li>Exploding Hearts - Guitar Romantic</li>
-<li>Four Tet - Rounds</li>
-<li>Deerhoof - Apple O'</li>
-<li>Jay-Z - The Black Album</li>
-<li>The Wrens - The Meadowlands</li>
-<li>Non-Prophets - Hope</li>
-<li>King Geedorah - Take Me to Your Leader</li>
-<li>Songs - Ohia Magnolia Electric Co.</li>
-<li>Outkast - Speakerboxxx/The Love Below</li>
-<li>Lightning Bolt - Wonderful Rainbow</li>
-<li>The Clientele - The Violet Hour</li>
-<li>Viktor Vaughn - Vaudeville Villain</li>
-<li>Ted Leo/Pharmacists - Hearts of Oak</li>
-<li>Ellen Allien - Berlinette</li>
-<li>TV on the Radio - Young Liars EP</li>
-<li>The Postal Service - Give Up</li>
-<li>Aesop Rock - Bazooka Tooth</li>
-<li>The Decemberists - Her Majesty The Decemberists</li>
-<li>Menomena - I Am the Fun Blame Monster</li>
-<li>My Morning Jacket - It Still Moves</li>
-<li>Cat Power - You Are Free</li>
-<li>The Decemberists - Castaways & Cutouts</li>
-<li>Junior Senior - D-D-Don't Stop the Beat</li>
-<li>DM + Jemini - Ghetto Pop Life</li>
-<li>Califone - Quicksand/Cradlesnakes</li>
-<li>Angels of Light - Everything Is Good Here/Please Come Home</li>
-<li>Animal Collective - Here Comes the Indian</li>
-<li>The Darkness - Permission to Land</li>
-<li>Broadcast - Haha Sound</li>
-<li>The Fiery Furnaces - Gallowsbird's Bark</li>
-<li>Alejandra & Aeron - Bousha Blue Blazes</li>
-<li>Ms. John Soda - No P. or D.</li>
-<li>M. Ward - Transfiguration of Vincent</li>
-<li>George - The Magic Lantern</li>
-<li>Saturday Looks Good to Me - All Your Summer Songs</li>
-<li>Cyann & Ben - Spring</li>
-<li>Supersilent - 6</li>
-</ol>
-<a href="http://www.pitchforkmedia.com/top/2002/">Pitchfork Best Albums of 2002</a>
-<ol> <li>Interpol - Turn on the Bright Lights</li>
-<li>Wilco - Yankee Hotel Foxtrot</li>
-<li>And You Will Know Us by the Trail of Dead - Source Tags & Codes</li>
-<li>The Books - Thought for Food</li>
-<li>Flaming Lips - Yoshimi Battles the Pink Robots</li>
-<li>Spoon - Kill the Moonlight</li>
-<li>Notwist - Neon Golden</li>
-<li>Boards of Canada - Geogaddi</li>
-<li>Sonic Youth - Murray Street</li>
-<li>Liars - They Threw Us All in a Trench and Stuck a Monument on Top</li>
-<li>El-P - Fantastic Damage</li>
-<li>Max Tundra - Mastered by the Guy at the Exchange</li>
-<li>Keith Fullerton Whitman - Playthroughs</li>
-<li>Sleater-Kinney - One Beat</li>
-<li>Enon - High Society</li>
-<li>Black Dice - Beaches & Canyons</li>
-<li>Fennesz/O'Rourke/Rehberg - The Return of FennO'Berg</li>
-<li>The Streets - Original Pirate Material</li>
-<li>Deerhoof - Reveille</li>
-<li>Hot Hot Heat - Make Up the Breakdown</li>
-<li>Wire - Read & Burn 01 & 02</li>
-<li>Fire Show - Saint the Fire Show</li>
-<li>Ekkehard Ehlers - Plays</li>
-<li>McLusky - McLusky Do Dallas</li>
-<li>Neko Case - Blacklisted</li>
-<li>GZA - Legend of the Liquid Sword</li>
-<li>The Walkmen - Everyone Who Pretended to Like Me Is Gone</li>
-<li>Missy Elliott - Under Construction</li>
-<li>Sigur Rós - ()</li>
-<li>Mr. Lif - I Phantom</li>
-<li>Isis - Oceanic</li>
-<li>Philip Jeck - Stoke</li>
-<li>Rjd2 - Deadringer</li>
-<li>Tim Hecker - Haunt Me, Haunt Me, Do It Again</li>
-<li>Hot Snakes - Suicide Invoice</li>
-<li>DJ /Rupture - Minesweeper Suite</li>
-<li>Secret Machines - September 000</li>
-<li>Eminem - The Eminem Show</li>
-<li>Kevin Drumm - Sheer Hellish Miasma</li>
-<li>Derek Bailey - Ballads</li>
-<li>Talib Kweli - Quality</li>
-<li>Beck - Sea Change</li>
-<li>Pretty Girls Make Graves - Good Health</li>
-<li>Hrvatski - Swarm & Dither</li>
-<li>Acid Mothers Temple - In C</li>
-<li>Blackalicious - Blazing Arrow</li>
-<li>Songs - Ohia: Didn't It Rain</li>
-<li>Tom Waits - Alice and Blood Money</li>
-<li>Dälek - From Filthy Tongue of Gods and Griots</li>
-<li>Comets on Fire - Field Recordings from the Sun</li>
-</ol>
-<a href="http://www.pitchforkmedia.com/top/2001/">Pitchfork Best Albums of 2001</a>
-<ol> <li>Microphones - The Glow, Pt. 2</li>
-<li>Fennesz - Endless Summer</li>
-<li>Avalanches - Since I Left You</li>
-<li>Unwound - Leaves Turn Inside You</li>
-<li>Circulatory System - Circulatory System</li>
-<li>Radiohead - Amnesiac</li>
-<li>Múm - Yesterday Was Dramatic, Today Is OK</li>
-<li>White Stripes - White Blood Cells</li>
-<li>New Pornographers - Mass Romantic</li>
-<li>Prefuse 73 - Vocal Studies + Uprock Narratives</li>
-<li>Autechre - Confield</li>
-<li>Mouse on Mars - Idiology</li>
-<li>Les Savy Fav - Go Forth</li>
-<li>Dismemberment Plan - Change</li>
-<li>Strokes - Is This It</li>
-<li>Jim O'Rourke - Insignificance</li>
-<li>Cannibal Ox - The Cold Vein</li>
-<li>Beta Band - Hot Shots II</li>
-<li>Dntel - Life is Full of Possibilities</li>
-<li>Fugazi - The Argument</li>
-</ol>
-<a href="http://www.pitchforkmedia.com/top/2000/">Pitchfork Best Albums of 2000</a>
-<ol> <li>Radiohead - Kid A</li>
-<li>Sigur Rós - Ágætis Byrjun</li>
-<li>Modest Mouse - The Moon and Antarctica</li>
-<li>Yo La Tengo - And Then Nothing Turned Itself Inside-Out</li>
-<li>Godspeed You Black Emperor! - Lift Your Skinny Fists like Antennas to Heaven</li>
-<li>Grandaddy - The Sophtware Slump</li>
-<li>Microphones - It Was Hot, We Stayed in the Water</li>
-<li>Les Savy Fav - Rome (Written Upside Down) EP</li>
-<li>Clinic - Internal Wrangler</li>
-<li>Smog - Dongs of Sevotion</li>
-<li>King Biscuit Time - No Style EP</li>
-<li>Gas - Pop</li>
-<li>Crooked Fingers - Crooked Fingers</li>
-<li>Super Furry Animals - Mwng</li>
-<li>Enon - Believo!</li>
-<li>Sleater-Kinney - All Hands on the Bad One</li>
-<li>Summer Hymns - Voice Brother and Sister</li>
-<li>Badly Drawn Boy - The Hour of Bewilderbeast</li>
-<li>Two Lone Swordsmen - Tiny Reminders</li>
-<li>Jackie-O Motherfucker - Fig. 5</li>
-</ol>
-<a href="http://www.pitchforkmedia.com/top/1999/">Pitchfork Best Albums of 1999</a>
-<ol> <li>Dismemberment Plan - Emergency and I</li>
-<li>The Flaming Lips - The Soft Bulletin</li>
-<li>Built to Spill - Keep It Like a Secret</li>
-<li>The Beta Band - The Three EPs</li>
-<li>Beck - Midnite Vultures</li>
-<li>Bonnie "Prince" Billy - I See a Darkness</li>
-<li>Tom Waits - Mule Variations</li>
-<li>Magnetic Fields - 69 Love Songs</li>
-<li>Godspeed You Black Emperor! - Slow Riot for New Zero Kanada EP</li>
-<li>Blur - 13</li>
-</ol>
-</p>
 
+Já há mais de um ano que um amigo meu, o Bruno, me mostrou um site
+fabuloso de crítica musical: o [Pitchfork]. Entre muitas coisas, o
+Pitchfork produz anualmente uma lista dos melhores álbuns do ano
+anterior que me tem ajudado a descobrir artistas como os Arcade Fire,
+Fiery Furnaces, Devendra Banhart, A.C. Newman e Iron & Wine.
+
+As listas começaram em 1999 com um top 10 que foi rapidamente expandido
+para top 20 nos dois anos seguintes e expandido para um top 50 nos três
+últimos anos. Infelizmente a partir de 2002 o Pitchfork optou por um
+formato de apresentação que não me agrada muito, em que a lista é
+revelada começando pelo fundo da lista subindo dez a dez álbuns até ao
+primeiro lugar. Aqui vão as listas dos últimos anos num formato mais
+legível:
+
+[Pitchfork Best Albums of 2004]
+
+1.  The Arcade Fire - Funeral
+2.  Animal Collective - Sung Tongs
+3.  The Streets - A Grand Don't Come for Free
+4.  The Fiery Furnaces - Blueberry Boat
+5.  Brian Wilson - Smile
+6.  Madvillain - Madvillainy
+7.  Devendra Banhart - Rejoicing in the Hands
+8.  The Go! Team - Thunder Lightning Strike
+9.  Ghostface - The Pretty Toney Album
+10. Joanna Newsom - The Milk-Eyed Mender
+11. Sonic Youth - Sonic Nurse
+12. M.I.A. / Diplo - Piracy Funds Terrorism, Vol. 1
+13. Dungen - Ta Det Lugnt
+14. Erlend Øye - DJ-Kicks
+15. Annie - Anniemal
+16. Dizzee Rascal - Showtime
+17. Sufjan Stevens - Seven Swans
+18. Kanye West - The College Dropout
+19. Björk - Medulla
+20. Air - Talkie Walkie
+21. Fennesz - Venice
+22. The Foreign Exchange - Connected
+23. Modest Mouse - Good News for People Who Love Bad News
+24. TV on the Radio - Desperate Youth, Blood Thirsty Babes
+25. Various Artists - DFA Compilation \#2
+26. Franz Ferdinand - Franz Ferdinand
+27. Interpol - Antics
+28. Junior Boys - Last Exit
+29. A.C. Newman - The Slow Wonder
+30. William Basinski - The Disintegration Loops
+31. De La Soul - The Grind Date
+32. Califone - Heron King Blues
+33. The Futureheads - The Futureheads
+34. Espers - Espers
+35. Mirah - C'mon Miracle
+36. Excepter - KA
+37. Jóhann Jóhannsson - Virðulegu Forsetar
+38. Morrissey - You Are The Quarry
+39. Cee-Lo - Cee-Lo Green Is a Soul Machine
+40. The Walkmen - Bows and Arrows
+41. Les Savy Fav - Inches
+42. DJ/Rupture - Special Gunpowder
+43. Scissor Sisters - Scissor Sisters
+44. Camera Obscura - Underachievers Please Try Harder
+45. The Concretes - The Concretes
+46. Iron & Wine - Our Endless Numbered Days
+47. Comets on Fire - Blue Cathedral
+48. Loretta Lynn - Van Lear Rose
+49. Max Richter - The Blue Notebooks
+50. Xiu Xiu - Fabulous Muscles
+
+[Pitchfork Best Albums of 2003]
+
+1.  The Rapture - Echoes
+2.  The Books - The Lemon of Pink
+3.  Sufjan Stevens - Greetings from Michigan: The Great Lake State
+4.  Radiohead - Hail to the Thief
+5.  Manitoba - Up in Flames
+6.  Prefuse 73 - One Word Extinguisher + Extinguished: Outtakes
+7.  The Shins - Chutes Too Narrow
+8.  M83 - Dead Cities, Red Seas & Lost Ghosts
+9.  Broken Social Scene - You Forgot It in People
+10. The Unicorns - Who Will Cut Our Hair When We're Gone?
+11. The Strokes - Room on Fire
+12. Dizzee Rascal - Boy in Da Corner
+13. Mu - Afro Finger & Gel
+14. Exploding Hearts - Guitar Romantic
+15. Four Tet - Rounds
+16. Deerhoof - Apple O'
+17. Jay-Z - The Black Album
+18. The Wrens - The Meadowlands
+19. Non-Prophets - Hope
+20. King Geedorah - Take Me to Your Leader
+21. Songs - Ohia Magnolia Electric Co.
+22. Outkast - Speakerboxxx/The Love Below
+23. Lightning Bolt - Wonderful Rainbow
+24. The Clientele - The Violet Hour
+25. Viktor Vaughn - Vaudeville Villain
+26. Ted Leo/Pharmacists - Hearts of Oak
+27. Ellen Allien - Berlinette
+28. TV on the Radio - Young Liars EP
+29. The Postal Service - Give Up
+30. Aesop Rock - Bazooka Tooth
+31. The Decemberists - Her Majesty The Decemberists
+32. Menomena - I Am the Fun Blame Monster
+33. My Morning Jacket - It Still Moves
+34. Cat Power - You Are Free
+35. The Decemberists - Castaways & Cutouts
+36. Junior Senior - D-D-Don't Stop the Beat
+37. DM + Jemini - Ghetto Pop Life
+38. Califone - Quicksand/Cradlesnakes
+39. Angels of Light - Everything Is Good Here/Please Come Home
+40. Animal Collective - Here Comes the Indian
+41. The Darkness - Permission to Land
+42. Broadcast - Haha Sound
+43. The Fiery Furnaces - Gallowsbird's Bark
+44. Alejandra & Aeron - Bousha Blue Blazes
+45. Ms. John Soda - No P. or D.
+46. M. Ward - Transfiguration of Vincent
+47. George - The Magic Lantern
+48. Saturday Looks Good to Me - All Your Summer Songs
+49. Cyann & Ben - Spring
+50. Supersilent - 6
+
+[Pitchfork Best Albums of 2002]
+
+1.  Interpol - Turn on the Bright Lights
+2.  Wilco - Yankee Hotel Foxtrot
+3.  And You Will Know Us by the Trail of Dead - Source Tags & Codes
+4.  The Books - Thought for Food
+5.  Flaming Lips - Yoshimi Battles the Pink Robots
+6.  Spoon - Kill the Moonlight
+7.  Notwist - Neon Golden
+8.  Boards of Canada - Geogaddi
+9.  Sonic Youth - Murray Street
+10. Liars - They Threw Us All in a Trench and Stuck a Monument on Top
+11. El-P - Fantastic Damage
+12. Max Tundra - Mastered by the Guy at the Exchange
+13. Keith Fullerton Whitman - Playthroughs
+14. Sleater-Kinney - One Beat
+15. Enon - High Society
+16. Black Dice - Beaches & Canyons
+17. Fennesz/O'Rourke/Rehberg - The Return of FennO'Berg
+18. The Streets - Original Pirate Material
+19. Deerhoof - Reveille
+20. Hot Hot Heat - Make Up the Breakdown
+21. Wire - Read & Burn 01 & 02
+22. Fire Show - Saint the Fire Show
+23. Ekkehard Ehlers - Plays
+24. McLusky - McLusky Do Dallas
+25. Neko Case - Blacklisted
+26. GZA - Legend of the Liquid Sword
+27. The Walkmen - Everyone Who Pretended to Like Me Is Gone
+28. Missy Elliott - Under Construction
+29. Sigur Rós - ()
+30. Mr. Lif - I Phantom
+31. Isis - Oceanic
+32. Philip Jeck - Stoke
+33. Rjd2 - Deadringer
+34. Tim Hecker - Haunt Me, Haunt Me, Do It Again
+35. Hot Snakes - Suicide Invoice
+36. DJ /Rupture - Minesweeper Suite
+37. Secret Machines - September 000
+38. Eminem - The Eminem Show
+39. Kevin Drumm - Sheer Hellish Miasma
+40. Derek Bailey - Ballads
+41. Talib Kweli - Quality
+42. Beck - Sea Change
+43. Pretty Girls Make Graves - Good Health
+44. Hrvatski - Swarm & Dither
+45. Acid Mothers Temple - In C
+46. Blackalicious - Blazing Arrow
+47. Songs - Ohia: Didn't It Rain
+48. Tom Waits - Alice and Blood Money
+49. Dälek - From Filthy Tongue of Gods and Griots
+50. Comets on Fire - Field Recordings from the Sun
+
+[Pitchfork Best Albums of 2001]
+
+1.  Microphones - The Glow, Pt. 2
+2.  Fennesz - Endless Summer
+3.  Avalanches - Since I Left You
+4.  Unwound - Leaves Turn Inside You
+5.  Circulatory System - Circulatory System
+6.  Radiohead - Amnesiac
+7.  Múm - Yesterday Was Dramatic, Today Is OK
+8.  White Stripes - White Blood Cells
+9.  New Pornographers - Mass Romantic
+10. Prefuse 73 - Vocal Studies + Uprock Narratives
+11. Autechre - Confield
+12. Mouse on Mars - Idiology
+13. Les Savy Fav - Go Forth
+14. Dismemberment Plan - Change
+15. Strokes - Is This It
+16. Jim O'Rourke - Insignificance
+17. Cannibal Ox - The Cold Vein
+18. Beta Band - Hot Shots II
+19. Dntel - Life is Full of Possibilities
+20. Fugazi - The Argument
+
+[Pitchfork Best Albums of 2000]
+
+1.  Radiohead - Kid A
+2.  Sigur Rós - Ágætis Byrjun
+3.  Modest Mouse - The Moon and Antarctica
+4.  Yo La Tengo - And Then Nothing Turned Itself Inside-Out
+5.  Godspeed You Black Emperor! - Lift Your Skinny Fists like Antennas
+    to Heaven
+6.  Grandaddy - The Sophtware Slump
+7.  Microphones - It Was Hot, We Stayed in the Water
+8.  Les Savy Fav - Rome (Written Upside Down) EP
+9.  Clinic - Internal Wrangler
+10. Smog - Dongs of Sevotion
+11. King Biscuit Time - No Style EP
+12. Gas - Pop
+13. Crooked Fingers - Crooked Fingers
+14. Super Furry Animals - Mwng
+15. Enon - Believo!
+16. Sleater-Kinney - All Hands on the Bad One
+17. Summer Hymns - Voice Brother and Sister
+18. Badly Drawn Boy - The Hour of Bewilderbeast
+19. Two Lone Swordsmen - Tiny Reminders
+20. Jackie-O Motherfucker - Fig. 5
+
+[Pitchfork Best Albums of 1999]
+
+1.  Dismemberment Plan - Emergency and I
+2.  The Flaming Lips - The Soft Bulletin
+3.  Built to Spill - Keep It Like a Secret
+4.  The Beta Band - The Three EPs
+5.  Beck - Midnite Vultures
+6.  Bonnie "Prince" Billy - I See a Darkness
+7.  Tom Waits - Mule Variations
+8.  Magnetic Fields - 69 Love Songs
+9.  Godspeed You Black Emperor! - Slow Riot for New Zero Kanada EP
+10. Blur - 13
+
+  [Pitchfork]: http://www.pitchforkmedia.com/
+  [Pitchfork Best Albums of 2004]: http://www.pitchforkmedia.com/top/2004/
+  [Pitchfork Best Albums of 2003]: http://www.pitchforkmedia.com/top/2003/
+  [Pitchfork Best Albums of 2002]: http://www.pitchforkmedia.com/top/2002/
+  [Pitchfork Best Albums of 2001]: http://www.pitchforkmedia.com/top/2001/
+  [Pitchfork Best Albums of 2000]: http://www.pitchforkmedia.com/top/2000/
+  [Pitchfork Best Albums of 1999]: http://www.pitchforkmedia.com/top/1999/

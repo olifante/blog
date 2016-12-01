@@ -5,5 +5,8 @@ published: true
 category:
   - Web/Tech
 ---
-<p>First <a href="http://www.everything2.com/index.pl?node_id=408086">this</a>, now <a href="http://joyoftech.com/joyoftech/joyimages/802.gif">this</a>.</p>
 
+First [this], now [this][1].
+
+  [this]: http://www.everything2.com/index.pl?node_id=408086
+  [1]: http://joyoftech.com/joyoftech/joyimages/802.gif

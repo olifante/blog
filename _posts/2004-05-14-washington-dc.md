@@ -5,14 +5,67 @@ published: true
 category:
   - Travel
 ---
-<blockquote><cite>Washington D.C., it’s paradise to me<br/>
-It’s not because it is the grand old seat<br/>
-of precious freedom and democracy, no no no<br/>
-It’s not the greenery turning gold in fall, the scenery circling the Mall<br/>
-It’s just that’s where my <strong>family</strong> lives, that’s all</cite><br/><br/>
-<a href="http://stephinsongs.wiw.org/tab/69ls2.html#14">Washington D.C.</a>, do magnífico álbum <a href="http://www.houseoftomorrow.com/tmf_cd_69ls.php">69 Love Songs</a> dos Magnetic Fields (<a href="http://nubule.nu/homeless/688/WashingtonDCExcerpt.mp3">excerto</a>)</blockquote><br/>
-<p><a href="http://olifante.blogs.com/covil/images/IMGP42681.html" onclick="window.open('http://olifante.blogs.com/covil/images/IMGP42681.html','popup','width=300,height=400,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img alt="Union Station | Washington D.C." src="http://olifante.blogs.com/covil/images/IMGP4268-thumb.jpg" width="100" height="133" border="0" style="float: left; margin: 0px 5px 5px 0px;" /></a>Tivemos uma estadia muito agradável em Washington D.C., que desta feita se revelou uma cidade bastante mais interessante do que me tinha parecido durante a minha primeira visita. Nessa visita, feita no rigorosíssimo inverno de 2000, fiquei instalado em Bethesda, um subúrbio de classe alta, e a minha vivência de Washington foi bastante fragmentada e desagradável. Desta vez ficámos instalados a um quarteirão de distância da movimentada M Street em Georgetown, um dos bairros mais agradáveis de Washington.</p>
 
-<p><a href="http://olifante.blogs.com/covil/images/Hirshhorn.html" onclick="window.open('http://olifante.blogs.com/covil/images/Hirshhorn.html','popup','width=399,height=533,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img alt="Hirshhorn Museum | Sculpture" src="http://olifante.blogs.com/covil/images/Hirshhorn-thumb.jpg" width="100" height="133" border="0" style="float: left; margin: 0px 5px 5px 0px;" /></a>Explorámos a cidade a pé, e aproveitámos para visitar alguns dos muitos museus de Washington, a maioria dos quais pertence à <a href="http://smithsonian.org/visit/infocenter/dcmuseum.htm">Fundação Smithsonian</a>. Os museus desta fundação são todos gratuitos, e a maior parte está situada em torno da zona do <a href="http://www.nps.gov/nama/monuments/monument.htm">Mall</a>, a parte mais emblemática e monumental da cidade. Simpatizei especialmente com o <a href="http://hirshhorn.si.edu/" title="Hirshhorn">Museu Hirshhorn</a>, que possui uma colecção razoável de pintura e escultura moderna, mas a jóia da coroa é seguramente o <a href="http://www.nga.gov/">National Gallery of Art</a>, cuja impressionante colecção mal tivemos tempo para apreciar condignamente. Visitámos também a <a href="http://www.phillipscollection.org/">Colecção Phillips</a>, um pequeno museu independente, mas embora o museu seja agradável a colecção é muito pequena.</p><p>Visitámos ainda o recém-aberto <a href="http://www.koshland-science-museum.org/">Museu da Ciência Marian Koshland</a>, mas este revelou-se uma enorme desilusão. O minúsculo Museu Koshland não é tanto um Museu da Ciência como um Museu de Temas Científicos arbitrariamente escolhidos. As três exposições que albergava quando o visitei tentavam disfarçar a pobreza franciscana de conteúdo didático com uma enorme profusão de factos, écrans interactivos e painéis luminosos, mas chamar àquilo um museu da ciência é uma piada de mau gosto, quando existem museus como <a href="http://www.sciencemuseum.org.uk/">este</a>. 
-</p>
+> Washington D.C., it’s paradise to me\
+> \
+> It’s not because it is the grand old seat\
+> \
+> of precious freedom and democracy, no no no\
+> \
+> It’s not the greenery turning gold in fall, the scenery circling the
+> Mall\
+> \
+> It’s just that’s where my **family** lives, that’s all\
+> \
+> \
+> [Washington D.C.], do magnífico álbum [69 Love Songs] dos Magnetic
+> Fields ([excerto])
 
+\
+
+[![Union Station | Washington D.C.]]Tivemos uma estadia muito agradável
+em Washington D.C., que desta feita se revelou uma cidade bastante mais
+interessante do que me tinha parecido durante a minha primeira visita.
+Nessa visita, feita no rigorosíssimo inverno de 2000, fiquei instalado
+em Bethesda, um subúrbio de classe alta, e a minha vivência de
+Washington foi bastante fragmentada e desagradável. Desta vez ficámos
+instalados a um quarteirão de distância da movimentada M Street em
+Georgetown, um dos bairros mais agradáveis de Washington.
+
+[![Hirshhorn Museum | Sculpture]]Explorámos a cidade a pé, e
+aproveitámos para visitar alguns dos muitos museus de Washington, a
+maioria dos quais pertence à [Fundação Smithsonian]. Os museus desta
+fundação são todos gratuitos, e a maior parte está situada em torno da
+zona do [Mall], a parte mais emblemática e monumental da cidade.
+Simpatizei especialmente com o [Museu Hirshhorn], que possui uma
+colecção razoável de pintura e escultura moderna, mas a jóia da coroa é
+seguramente o [National Gallery of Art], cuja impressionante colecção
+mal tivemos tempo para apreciar condignamente. Visitámos também a
+[Colecção Phillips], um pequeno museu independente, mas embora o museu
+seja agradável a colecção é muito pequena.
+
+Visitámos ainda o recém-aberto [Museu da Ciência Marian Koshland], mas
+este revelou-se uma enorme desilusão. O minúsculo Museu Koshland não é
+tanto um Museu da Ciência como um Museu de Temas Científicos
+arbitrariamente escolhidos. As três exposições que albergava quando o
+visitei tentavam disfarçar a pobreza franciscana de conteúdo didático
+com uma enorme profusão de factos, écrans interactivos e painéis
+luminosos, mas chamar àquilo um museu da ciência é uma piada de mau
+gosto, quando existem museus como [este].
+
+  [Washington D.C.]: http://stephinsongs.wiw.org/%3Ca%20href='http://github.com/tab/69ls2.html/issues/#issue/14'%3Etab/69ls2.html#14%3C/a%3E
+  [69 Love Songs]: http://www.houseoftomorrow.com/tmf_cd_69ls.php
+  [excerto]: http://nubule.nu/homeless/688/WashingtonDCExcerpt.mp3
+  [Union Station | Washington D.C.]: http://olifante.blogs.com/covil/images/IMGP4268-thumb.jpg{width="100"
+  height="133"}
+  [![Union Station | Washington D.C.]]: http://olifante.blogs.com/covil/images/IMGP42681.html
+  [Hirshhorn Museum | Sculpture]: http://olifante.blogs.com/covil/images/Hirshhorn-thumb.jpg{width="100"
+  height="133"}
+  [![Hirshhorn Museum | Sculpture]]: http://olifante.blogs.com/covil/images/Hirshhorn.html
+  [Fundação Smithsonian]: http://smithsonian.org/visit/infocenter/dcmuseum.htm
+  [Mall]: http://www.nps.gov/nama/monuments/monument.htm
+  [Museu Hirshhorn]: http://hirshhorn.si.edu/ "Hirshhorn"
+  [National Gallery of Art]: http://www.nga.gov/
+  [Colecção Phillips]: http://www.phillipscollection.org/
+  [Museu da Ciência Marian Koshland]: http://www.koshland-science-museum.org/
+  [este]: http://www.sciencemuseum.org.uk/

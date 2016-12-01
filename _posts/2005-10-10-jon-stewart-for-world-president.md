@@ -5,9 +5,19 @@ published: true
 category:
   - Current Affairs
 ---
-<p>Jon Stewart's at it again. Check the <a href="http://www.ifilm.com/ifilmdetail/2680455">hilarious movie clip</a> of his <a href="http://lifesrichpageant.typepad.com/lifes_rich_pageant/2005/09/moonbatting.html">sketch at The Emmys</a> about Katrina.</p>
 
-<p>If you haven't watched Jon Stewart's <a href="http://www.boingboing.net/2004/10/15/jon_stewarts_crossfi.html">live dissection of Tucker Carlson</a> on CNN, please do the world a service and watch the <a href="http://www.ifilm.com/ifilmdetail/2652831">movie clip</a>. The show was cancelled shortly after this incident.</p>
+Jon Stewart's at it again. Check the [hilarious movie clip] of his
+[sketch at The Emmys] about Katrina.
 
-<p>For a funny indictment of electronic voting, check this <a href="http://avirubin.com/vote/dailyshow.mov">older movie clip</a>.</p>
+If you haven't watched Jon Stewart's [live dissection of Tucker Carlson]
+on CNN, please do the world a service and watch the [movie clip]. The
+show was cancelled shortly after this incident.
 
+For a funny indictment of electronic voting, check this [older movie
+clip].
+
+  [hilarious movie clip]: http://www.ifilm.com/ifilmdetail/2680455
+  [sketch at The Emmys]: http://lifesrichpageant.typepad.com/lifes_rich_pageant/2005/09/moonbatting.html
+  [live dissection of Tucker Carlson]: http://www.boingboing.net/2004/10/15/jon_stewarts_crossfi.html
+  [movie clip]: http://www.ifilm.com/ifilmdetail/2652831
+  [older movie clip]: http://avirubin.com/vote/dailyshow.mov

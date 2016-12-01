@@ -6,15 +6,17 @@ category:
   - Web/Tech
 ---
 
-I just installed the newly released [Firefox 3 beta 5], replacing beta 4
-in my Macbook Pro's XP partition (a budding addiction to [Oblivion] has
-been making me boot into Windows more than I should). The main highlight
-of this released compared to the previous beta 4 is the enhanced
+I just installed the newly released [Firefox 3 beta 5], replacing beta
+4\
+in my Macbook Pro's XP partition (a budding addiction to [Oblivion] has\
+been making me boot into Windows more than I should). The main
+highlight\
+of this released compared to the previous beta 4 is the enhanced\
 Javascript performance.
 
-To see how much of a boost Javascript got, I ran the [SunSpider
-Javascript Benchmark] with several current browsers. Here are the
-results I got on my machine, with a Core 2 Duo CPU @ 2.40 GHz and 2 GB
+To see how much of a boost Javascript got, I ran the [SunSpider\
+Javascript Benchmark] with several current browsers. Here are the\
+results I got on my machine, with a Core 2 Duo CPU @ 2.40 GHz and 2 GB\
 RAM:
 
 -   Firefox 3 beta 5: [5000.6ms +/- 2.8%]
@@ -25,14 +27,15 @@ RAM:
     whopping 497% faster (I had no idea IE had fallen so far behind in
     the Javascript race).
 
-To test the Javascript abilities of you browser, here's a couple of
-jewels from the past reimplemented in Javascript: [Manic Miner] and
-[Donkey Kong]. Both are surprisingly hard -- where's all my muscle
+To test the Javascript abilities of you browser, here's a couple of\
+jewels from the past reimplemented in Javascript: [Manic Miner] and\
+[Donkey Kong]. Both are surprisingly hard -- where's all my muscle\
 memory gone?
 
   [Firefox 3 beta 5]: http://en-us.www.mozilla.com/en-US/firefox/3.0b5/releasenotes/
   [Oblivion]: http://en.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Oblivion
-  [SunSpider Javascript Benchmark]: http://webkit.org/perf/sunspider-0.9/sunspider.html
+  [SunSpider\
+  Javascript Benchmark]: http://webkit.org/perf/sunspider-0.9/sunspider.html
   [5000.6ms +/- 2.8%]: http://webkit.org/perf/sunspider-0.9/sunspider-results.html?%7B%223d-cube%22:%5B195,203,206,210,192%5D,%223d-morph%22:%5B205,180,197,181,176%5D,%223d-raytrace%22:%5B212,244,219,204,270%5D,%22access-binary-trees%22:%5B124,127,134,123,118%5D,%22access-fannkuch%22:%5B296,221,309,214,303%5D,%22access-nbody%22:%5B261,214,232,219,213%5D,%22access-nsieve%22:%5B139,148,139,144,155%5D,%22bitops-3bit-bits-in-byte%22:%5B145,155,155,145,158%5D,%22bitops-bits-in-byte%22:%5B177,173,135,177,183%5D,%22bitops-bitwise-and%22:%5B172,159,167,164,163%5D,%22bitops-nsieve-bits%22:%5B197,179,197,178,178%5D,%22controlflow-recursive%22:%5B112,115,114,113,116%5D,%22crypto-aes%22:%5B159,175,173,164,173%5D,%22crypto-md5%22:%5B146,136,53,133,134%5D,%22crypto-sha1%22:%5B160,157,66,149,151%5D,%22date-format-tofte%22:%5B236,238,148,234,226%5D,%22date-format-xparb%22:%5B172,165,164,166,175%5D,%22math-cordic%22:%5B260,251,242,254,240%5D,%22math-partial-sums%22:%5B196,198,204,200,192%5D,%22math-spectral-norm%22:%5B145,145,147,143,62%5D,%22regexp-dna%22:%5B317,309,360,316,361%5D,%22string-base64%22:%5B168,154,152,170,159%5D,%22string-fasta%22:%5B252,259,245,262,243%5D,%22string-tagcloud%22:%5B215,198,196,203,189%5D,%22string-unpack-code%22:%5B321,313,313,322,319%5D,%22string-validate-input%22:%5B169,175,171,209,177%5D%7D
   [5593.8ms +/- 1.7%]: http://webkit.org/perf/sunspider-0.9/sunspider-results.html?%7B%223d-cube%22:%5B230,321,217,226,250%5D,%223d-morph%22:%5B212,161,203,221,201%5D,%223d-raytrace%22:%5B125,238,218,213,218%5D,%22access-binary-trees%22:%5B124,122,123,120,125%5D,%22access-fannkuch%22:%5B360,349,334,348,342%5D,%22access-nbody%22:%5B222,229,242,231,260%5D,%22access-nsieve%22:%5B156,144,124,159,153%5D,%22bitops-3bit-bits-in-byte%22:%5B153,157,155,180,161%5D,%22bitops-bits-in-byte%22:%5B213,202,213,205,215%5D,%22bitops-bitwise-and%22:%5B276,263,263,280,266%5D,%22bitops-nsieve-bits%22:%5B285,230,224,235,239%5D,%22controlflow-recursive%22:%5B112,115,113,112,111%5D,%22crypto-aes%22:%5B164,197,233,170,167%5D,%22crypto-md5%22:%5B162,172,163,178,161%5D,%22crypto-sha1%22:%5B172,172,171,183,181%5D,%22date-format-tofte%22:%5B241,242,259,254,275%5D,%22date-format-xparb%22:%5B174,183,172,180,177%5D,%22math-cordic%22:%5B281,266,270,272,275%5D,%22math-partial-sums%22:%5B289,274,264,265,284%5D,%22math-spectral-norm%22:%5B169,168,155,166,158%5D,%22regexp-dna%22:%5B299,313,295,318,303%5D,%22string-base64%22:%5B163,167,167,183,164%5D,%22string-fasta%22:%5B258,244,253,247,255%5D,%22string-tagcloud%22:%5B188,202,205,198,232%5D,%22string-unpack-code%22:%5B310,308,293,321,300%5D,%22string-validate-input%22:%5B177,177,180,198,193%5D%7D
   [6111.4ms +/- 2.5%]: http://webkit.org/perf/sunspider-0.9/sunspider-results.html?%7B%223d-cube%22:%5B234,234,234,266,156%5D,%223d-morph%22:%5B234,219,218,219,219%5D,%223d-raytrace%22:%5B235,234,234,250,218%5D,%22access-binary-trees%22:%5B156,203,172,172,203%5D,%22access-fannkuch%22:%5B407,375,343,344,359%5D,%22access-nbody%22:%5B250,234,250,235,266%5D,%22access-nsieve%22:%5B172,188,156,172,156%5D,%22bitops-3bit-bits-in-byte%22:%5B156,156,156,187,188%5D,%22bitops-bits-in-byte%22:%5B281,219,187,203,187%5D,%22bitops-bitwise-and%22:%5B250,266,281,344,250%5D,%22bitops-nsieve-bits%22:%5B188,218,219,203,203%5D,%22controlflow-recursive%22:%5B188,203,188,203,218%5D,%22crypto-aes%22:%5B203,188,172,187,219%5D,%22crypto-md5%22:%5B172,171,156,218,187%5D,%22crypto-sha1%22:%5B187,172,157,156,172%5D,%22date-format-tofte%22:%5B234,234,219,235,250%5D,%22date-format-xparb%22:%5B344,281,312,281,266%5D,%22math-cordic%22:%5B250,266,266,266,250%5D,%22math-partial-sums%22:%5B282,313,281,282,328%5D,%22math-spectral-norm%22:%5B188,187,187,187,218%5D,%22regexp-dna%22:%5B375,359,375,359,375%5D,%22string-base64%22:%5B234,188,203,187,234%5D,%22string-fasta%22:%5B266,250,266,391,266%5D,%22string-tagcloud%22:%5B219,219,234,219,203%5D,%22string-unpack-code%22:%5B234,218,234,218,282%5D,%22string-validate-input%22:%5B265,235,250,266,250%5D%7D

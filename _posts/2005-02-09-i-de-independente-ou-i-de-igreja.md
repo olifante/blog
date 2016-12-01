@@ -5,13 +5,66 @@ published: true
 category:
   - Portugal
 ---
-<p>Acabei há pouco de ver uma reportagem que me deixou incomodado. No telejornal da TVI foi apresentada uma reportagem intitulada &quot;Filhos de um Deus Diferente&quot; sobre uma escola islâmica portuguesa. A reportagem de Filipa Cerejo é infeliz a vários níveis, a começar pelo título. Num país em que a constituição defende a igualdade de todas as religiões, chamar filhos de um deus diferente aos muçulmanos portugueses é na melhor das hipóteses desadequado, e na pior, tendencioso. Este título salienta a diferença em vez de mostrar os pontos de encontro, ao arrepio dos muitos cristãos devotos que construíram o movimento ecuménico, que apresenta cristãos, judeus e muçulmanos como crentes de um mesmo Deus partilhado por ritos diferentes.</p>
 
-<p>Outro elemento de mau gosto foi a música, sombria e inquietante, que serviu para enfatizar a diferença algo ameaçadora do que parecia ser uma escola religiosa como tantas outras, muçulmanas ou cristãs.</p>
+Acabei há pouco de ver uma reportagem que me deixou incomodado. No
+telejornal da TVI foi apresentada uma reportagem intitulada "Filhos de
+um Deus Diferente" sobre uma escola islâmica portuguesa. A reportagem de
+Filipa Cerejo é infeliz a vários níveis, a começar pelo título. Num país
+em que a constituição defende a igualdade de todas as religiões, chamar
+filhos de um deus diferente aos muçulmanos portugueses é na melhor das
+hipóteses desadequado, e na pior, tendencioso. Este título salienta a
+diferença em vez de mostrar os pontos de encontro, ao arrepio dos muitos
+cristãos devotos que construíram o movimento ecuménico, que apresenta
+cristãos, judeus e muçulmanos como crentes de um mesmo Deus partilhado
+por ritos diferentes.
 
-<p>Ao longo da reportagem foram apresentadas entrevistas com vários alunos da escola. As entrevistas foram feitas em Português, e foi num Português fluente, correcto e perfeitamente inteligível que todos os alunos responderam. Sendo assim, fiquei perplexo com o facto de as respostas dos alunos serem legendadas. Parece-me difícil entender esta opção como outra coisa que não uma vontade deliberada de enviesar a reportagem e mostrar a escola como não-Portuguesa, e não simplesmente como uma opção de alguns cidadãos portugueses e residentes estrangeiros por um estilo de vida simplesmente diferente, mesmo que minoritário em Portugal.</p>
+Outro elemento de mau gosto foi a música, sombria e inquietante, que
+serviu para enfatizar a diferença algo ameaçadora do que parecia ser uma
+escola religiosa como tantas outras, muçulmanas ou cristãs.
 
-<p>Na página da <a href="http://www.tvi.iol.pt/home.html">TVI</a> descobri o número de telefone desta televisão: 214 347 500. Ao ser atendido, pedi para fazer uma reclamação. Fui reencaminhado, e rapidamente fui atendido por Ana Paula Carlos do Departamento de Relações Públicas. Expliquei-lhe os factos que acabei de descrever e manifestei-lhe o meu desconforto, mas não me foi dada qualquer explicação razoável para o sucedido. O máximo que me foi dito foi que por vezes certos programas eram legendados para o benefício dos espectadores deficientes auditivos; retorqui que tal seria uma excelente explicação, não fora o facto de apenas as entrevistas serem legendadas, e não a reportagem toda (para já não falar do telejornal todo). Quanto à minha queixa, foi-me dito que seria reencaminhada para a administração, mas rapidamente percebi que não havia qualquer forma de acompanhar o desenvolvimento da mesma. Ana Paula Carlos disse-me que não são atribuídos números às reclamações por telefone, e explicou-me também que não podia deixar o meu contacto para me serem dadas eventuais explicações sobre a opção pela legendagem. Apenas as reclamações por escrito têm direito a resposta.</p>
+Ao longo da reportagem foram apresentadas entrevistas com vários alunos
+da escola. As entrevistas foram feitas em Português, e foi num Português
+fluente, correcto e perfeitamente inteligível que todos os alunos
+responderam. Sendo assim, fiquei perplexo com o facto de as respostas
+dos alunos serem legendadas. Parece-me difícil entender esta opção como
+outra coisa que não uma vontade deliberada de enviesar a reportagem e
+mostrar a escola como não-Portuguesa, e não simplesmente como uma opção
+de alguns cidadãos portugueses e residentes estrangeiros por um estilo
+de vida simplesmente diferente, mesmo que minoritário em Portugal.
 
-<p>Sendo assim, proponho a todos que se sintam incomodados por esta reportagem que manifestem o seu desagrado por escrito para:</p><blockquote><p>Departamento de Relações Públicas<br />TVI, Televisão Independente, S.A.<br />Rua Mário Castelhano, 40<br />Queluz de Baixo<br />2734-502 Barcarena<br />Portugal<br />Tel.: +351 21 434 75 00<br />Fax: +351 21 434 76 54</p></blockquote><p>Podem ainda contactar a coordenadora desta reportagem, Ana Leal, através do seguinte endereço: amleal arroba tvi ponto pt.</p><blockquote>&nbsp;</blockquote>
+Na página da [TVI] descobri o número de telefone desta televisão: 214
+347 500. Ao ser atendido, pedi para fazer uma reclamação. Fui
+reencaminhado, e rapidamente fui atendido por Ana Paula Carlos do
+Departamento de Relações Públicas. Expliquei-lhe os factos que acabei de
+descrever e manifestei-lhe o meu desconforto, mas não me foi dada
+qualquer explicação razoável para o sucedido. O máximo que me foi dito
+foi que por vezes certos programas eram legendados para o benefício dos
+espectadores deficientes auditivos; retorqui que tal seria uma excelente
+explicação, não fora o facto de apenas as entrevistas serem legendadas,
+e não a reportagem toda (para já não falar do telejornal todo). Quanto à
+minha queixa, foi-me dito que seria reencaminhada para a administração,
+mas rapidamente percebi que não havia qualquer forma de acompanhar o
+desenvolvimento da mesma. Ana Paula Carlos disse-me que não são
+atribuídos números às reclamações por telefone, e explicou-me também que
+não podia deixar o meu contacto para me serem dadas eventuais
+explicações sobre a opção pela legendagem. Apenas as reclamações por
+escrito têm direito a resposta.
 
+Sendo assim, proponho a todos que se sintam incomodados por esta
+reportagem que manifestem o seu desagrado por escrito para:
+
+> Departamento de Relações Públicas\
+> TVI, Televisão Independente, S.A.\
+> Rua Mário Castelhano, 40\
+> Queluz de Baixo\
+> 2734-502 Barcarena\
+> Portugal\
+> Tel.: +351 21 434 75 00\
+> Fax: +351 21 434 76 54
+
+Podem ainda contactar a coordenadora desta reportagem, Ana Leal, através
+do seguinte endereço: amleal arroba tvi ponto pt.
+
+>  
+
+  [TVI]: http://www.tvi.iol.pt/home.html

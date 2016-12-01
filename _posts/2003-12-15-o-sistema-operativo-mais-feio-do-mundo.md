@@ -5,11 +5,61 @@ published: true
 category:
   - Web/Tech
 ---
-<p>Apesar de o meu novo portátil vir já com o Windows XP Home Edition pré-instalado, com todos os drivers necessários e com algum software adicional, rapidamente avancei para uma nova instalação do Windows XP, por várias razões:<br />
-<ul><li>Tenciono instalar pelo menos mais 2 sistemas operativos (<a href="http://www.redhat.com/software/rhelorfedora/">RedHat 9 ou Fedora</a> e <a href="http://wwws.sun.com/software/javadesktopsystem/index.html">Sun Java Desktop</a>), tendo por isso apagado a única partição existente e criado uma partição mais pequena com apenas um terço do espaço do meu disco de 60gb (por enquanto apenas de 4200 r.p.m., que em breve irá ser substituído por um de 7200 r.p.m.). Os restantes 40gb serão divididos entre o RedHat/Fedora, o SJD e uma partição FAT32 para partilha de ficheiros entre os diferentes sistemas operativos, já que o suporte para NTFS em Linux não é brilhante (embora por culpa da Microsoft, que não divulga a informação técnica necessária para usar NTFS em plataformas não-Windows)</li><li>Gosto de saber qual o software que está instalado no meu computador. O facto de alguns fabricantes, <a href="http://www.spywareinfo.com/newsletter/archives/1203/2.php">nomeadamente a Dell</a>, venderem computadores com Spyware pré-instalado, suscita-me algum desconforto perante sistemas prontos a usar</li><li>Tenho o hábito de utilizar sempre a versão inglesa de qualquer software, seja uma aplicação ou um sistema operativo. Quer se queira quer não, o inglês é a língua franca do mundo em geral e da informática em particular</li><li>Prefiro utilizar o Windows XP Professional em lugar do Home Edition</li><br />
-</ul>No entanto, mais uma vez constato que o meu olho ainda não se habituou ao impacto doloroso da estética XP. Penso que dará um <em>case study</em> interessante para futuros cursos de Design Industrial perceber como uma companhia tão poderosa e com tantos recursos consegue produzir um sistema operativo tão feio, ainda por cima anunciando a dita estética como um trunfo revolucionário. Embora haja uma clara melhoria ao nível da interface pessoa-máquina, que está mais arrumada, o esquema de cores assumido por defeito por uma instalação normal de Windows XP constitui possivelmente o maior crime estético desde a invenção da música Country. Já o achava antes de começar a usar o MacOS X, provavelmente o sistema operativo mais belo de sempre, continuo a achá-lo mesmo depois de ter utilizado XP mais de um ano.</p>
 
-<p>Como se não bastasse o esquema de cores standard ser tão feio, com o seu uso grosseiro de duas cores básicas, azul e verde, a imagem de fundo standard utiliza cores extremamente vivas, o que me parece bastante desadequado. De pouco serve tentar escolher um fundo menos presente: os restantes fundos disponibilizados numa instalação standard do XP utilizam todos imagens com cores extremamente vivas e saturadas, dando a impressão de que alguém puxou o contraste destas imagens ao máximo.</p>
+Apesar de o meu novo portátil vir já com o Windows XP Home Edition
+pré-instalado, com todos os drivers necessários e com algum software
+adicional, rapidamente avancei para uma nova instalação do Windows XP,
+por várias razões:\
 
-<p>Felizmente há uma cura rápida e fácil: clicar com o botão direito no fundo do écran, escolher "Properties" e clicar no separador "Appearance", e no menu "Windows and buttons" escolher a opção "Windows Classic style", mudando em seguida o "Color scheme" para "Windows Standard". Voilá - temos o look-and-feel do velho Windows 2000, quanto a mim o único sistema operativo da Microsoft que saiu perfeito à nascença.</p>
+-   Tenciono instalar pelo menos mais 2 sistemas operativos ([RedHat 9
+    ou Fedora] e [Sun Java Desktop]), tendo por isso apagado a única
+    partição existente e criado uma partição mais pequena com apenas um
+    terço do espaço do meu disco de 60gb (por enquanto apenas de 4200
+    r.p.m., que em breve irá ser substituído por um de 7200 r.p.m.). Os
+    restantes 40gb serão divididos entre o RedHat/Fedora, o SJD e uma
+    partição FAT32 para partilha de ficheiros entre os diferentes
+    sistemas operativos, já que o suporte para NTFS em Linux não é
+    brilhante (embora por culpa da Microsoft, que não divulga a
+    informação técnica necessária para usar NTFS em
+    plataformas não-Windows)
+-   Gosto de saber qual o software que está instalado no meu computador.
+    O facto de alguns fabricantes, [nomeadamente a Dell], venderem
+    computadores com Spyware pré-instalado, suscita-me algum desconforto
+    perante sistemas prontos a usar
+-   Tenho o hábito de utilizar sempre a versão inglesa de qualquer
+    software, seja uma aplicação ou um sistema operativo. Quer se queira
+    quer não, o inglês é a língua franca do mundo em geral e da
+    informática em particular
+-   Prefiro utilizar o Windows XP Professional em lugar do Home Edition
 
+No entanto, mais uma vez constato que o meu olho ainda não se habituou
+ao impacto doloroso da estética XP. Penso que dará um *case study*
+interessante para futuros cursos de Design Industrial perceber como uma
+companhia tão poderosa e com tantos recursos consegue produzir um
+sistema operativo tão feio, ainda por cima anunciando a dita estética
+como um trunfo revolucionário. Embora haja uma clara melhoria ao nível
+da interface pessoa-máquina, que está mais arrumada, o esquema de cores
+assumido por defeito por uma instalação normal de Windows XP constitui
+possivelmente o maior crime estético desde a invenção da música Country.
+Já o achava antes de começar a usar o MacOS X, provavelmente o sistema
+operativo mais belo de sempre, continuo a achá-lo mesmo depois de ter
+utilizado XP mais de um ano.
+
+Como se não bastasse o esquema de cores standard ser tão feio, com o seu
+uso grosseiro de duas cores básicas, azul e verde, a imagem de fundo
+standard utiliza cores extremamente vivas, o que me parece bastante
+desadequado. De pouco serve tentar escolher um fundo menos presente: os
+restantes fundos disponibilizados numa instalação standard do XP
+utilizam todos imagens com cores extremamente vivas e saturadas, dando a
+impressão de que alguém puxou o contraste destas imagens ao máximo.
+
+Felizmente há uma cura rápida e fácil: clicar com o botão direito no
+fundo do écran, escolher "Properties" e clicar no separador
+"Appearance", e no menu "Windows and buttons" escolher a opção "Windows
+Classic style", mudando em seguida o "Color scheme" para "Windows
+Standard". Voilá - temos o look-and-feel do velho Windows 2000, quanto a
+mim o único sistema operativo da Microsoft que saiu perfeito à nascença.
+
+  [RedHat 9 ou Fedora]: http://www.redhat.com/software/rhelorfedora/
+  [Sun Java Desktop]: http://wwws.sun.com/software/javadesktopsystem/index.html
+  [nomeadamente a Dell]: http://www.spywareinfo.com/newsletter/archives/1203/2.php

@@ -5,6 +5,7 @@ published: true
 category:
   - Games
 ---
-A resposta prática está aqui: <a title="Europe" href="http://www.mapzone.co.uk/pagesgames/EuropeGame.htm">Europe</a>
 
+A resposta prática está aqui: [Europe]
 
+  [Europe]: http://www.mapzone.co.uk/pagesgames/EuropeGame.htm "Europe"
